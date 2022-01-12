@@ -789,6 +789,15 @@ body.is_app .lesblogueurs-navbar.ocultar {
 	background: transparent;
 }
 
+/*imagenes*/
+.bck-box img {
+    max-width: inherit;
+}
+
+#actividad .content img {
+	border-radius: 0px;
+}
+
 /*Icono audio*/
 #actividad .player.audio {
 	background-image: url(images/icono_audio_reporterosusa.png);
@@ -3884,7 +3893,8 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
     left: -97px;
     width: calc(100% + 194px);
     padding: 0;
-    border: 0
+    border: 0;
+    background-color: transparent;
 }
 
 .bck-box-29>.bck-content {
