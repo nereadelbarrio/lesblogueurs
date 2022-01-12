@@ -3560,7 +3560,6 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 .bck-box.bck-box-18>.bck-content {
 	padding: 5px 25px;
 	background: transparent;
-	font-size: 26px;
 }
 
 .bck-box.bck-box-18>.bck-title {
@@ -6543,6 +6542,10 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 	font-size: 1.8rem;
 	padding-top: 2px;
 	font-weight: 600;
+}
+
+.bck-dropdown-1 .bck-dropdown-subtitulo {
+    display: none;
 }
 
 
