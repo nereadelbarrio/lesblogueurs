@@ -1,4 +1,4 @@
-/*Estilo REPORTEROS USA - CSS*/
+/*Estilo LES BLOGUEURS - CSS*/
 
 /* Fonts */
 
@@ -912,6 +912,7 @@ body.is_app .lesblogueurs-navbar.ocultar {
     border-bottom: none;
     color: #E7304A;
     font-weight: bold;
+    margin-top: 0px;
 }
 
 
@@ -922,6 +923,7 @@ body.is_app .lesblogueurs-navbar.ocultar {
     border-bottom: 4px solid #E7304A;
     color: #E7304A;
     font-weight: bold;
+    margin-bottom: 40px;
 }
 
 /*TITULO 5*/
@@ -2518,8 +2520,7 @@ counter-increment: bck-li-counter;
     list-style: none;
     margin-bottom: 10px;
     margin-left: 8px;
-    font-family: 'Conv_PT_Sans-Web';
-    font-size: 20px;
+    font-size: 22px;
     color: #2880C3;
 }
 
@@ -2556,8 +2557,7 @@ counter-increment: bck-li-counter;
     list-style: none;
     margin-bottom: 10px;
     margin-left: 8px;
-    font-family: 'Conv_PT_Sans-Web';
-    font-size: 20px;
+    font-size: 22px;
     color: #2880C3;
 }
 
