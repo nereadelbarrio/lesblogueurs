@@ -1325,6 +1325,7 @@ color: #323232;
 .bck-enfasis-8 {
 	color: #9E1981;
     font-weight: bold;
+    font-size: 18px;
 }
 
 /*ENFASIS 9*/
@@ -2812,7 +2813,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 	position: relative;
 	list-style: none;
 	margin-bottom: 0px;
-	font-size: inherit;
+	font-size: 22px;
 	line-height: 27px !important; 
 }
 
@@ -3159,22 +3160,26 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 .bck-box-9>.bck-title {
     border: 0px;
     color: #fff;
-    text-align: center;
+    text-align: left;
     font-size: 1.8rem;
     background: #9D9C88;
     padding: 10px 20px 0px 20px;
     font-weight: bold;
 }
 
+.bck-box-9>.bck-title p {
+	margin-bottom: 0;
+}
+
 .bck-box-9 .bck-title:after {
 	content: "";
     background-image: url(images/icono_box-7_lesblogueurs.png);
-    background-repeat: no-repeat;
+	background-repeat: no-repeat;
     background-size: contain;
-    padding: 25px;
+    padding: 17px;
     position: absolute;
-    margin-top: -21px;
-    margin-right: -10px;
+    margin-top: -5px;
+    margin-right: 6px;
     right: 0;
     z-index: 1;
 }
@@ -4898,7 +4903,7 @@ table.bck-table-10 {
 }
 
 table.bck-table-10 td {
-    border-color: #007A88;
+    border-color: #00A6BA;
 }
 
 table.bck-table-10 td.bck-td-9 {
