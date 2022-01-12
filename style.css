@@ -2520,7 +2520,7 @@ counter-increment: bck-li-counter;
     margin-left: 8px;
     font-family: 'Conv_PT_Sans-Web';
     font-size: 20px;
-    color: #3476AB;
+    color: #2880C3;
 }
 
 #actividad .content .cke_contents .bck-ul-2 li:before,
@@ -2531,12 +2531,12 @@ counter-increment: bck-li-counter;
     height: 6px;
     width: 6px;
     background-color: transparent;
-    color: #3476AB;
+    color: #2880C3;
     border-radius: 50%;
     position: absolute;
     margin-top: 11px;
     margin-left: -2px;
-    border: 1px solid #3476AB;
+    border: 1px solid #2880C3;
 }
 
 /*LISTA DESORDENADA 3*/
@@ -2558,7 +2558,7 @@ counter-increment: bck-li-counter;
     margin-left: 8px;
     font-family: 'Conv_PT_Sans-Web';
     font-size: 20px;
-    color: #3476AB;
+    color: #2880C3;
 }
 
 #actividad .content .cke_contents .bck-ul-3 li:before,
@@ -2568,7 +2568,7 @@ counter-increment: bck-li-counter;
     content: "";
     height: 6px;
     width: 6px;
-    background-color: #3476AB;
+    background-color: #2880C3;
     color: #333;
     border-radius: 50%;
     position: absolute;
