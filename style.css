@@ -2910,16 +2910,16 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 
 /*CAJA 2*/
 .bck-box.bck-box-2 {
-	background: #ffded5;
-    border: 2px dotted #e30613;
-    border-radius: 15px;
+    background: #FAD5D0;
+    border: 0;
+    border-radius: 0px;
     color: #333;
     padding: 20px;
 }
 
 .bck-box.bck-box-2 > .bck-content {
 	color: #333;
-    background: #ffded5;
+    background: #fad5d0;
     padding: 5px;
     font-size: 2.2rem;
 }
@@ -2928,7 +2928,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 	color: #333;
     background: #ffded5;
     padding: 5px;
-    font-size: 2.4rem;
+    font-size: 2.2rem;
 }
 
 .bck-box.bck-box-2 .bck-title:before {
