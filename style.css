@@ -816,7 +816,7 @@ body.is_app .lesblogueurs-navbar.ocultar {
 	display: inline-block;
 	background-repeat: no-repeat;
 	border-radius: 100%;
-	margin: 0 5px;
+	margin: -4px 8px 0px 5px;
 	vertical-align: middle;
 }
 
@@ -1277,8 +1277,10 @@ border-left: 10px solid transparent;
 
 /*ENFASIS 1*/
 .bck-enfasis-1 {
-    color: #323232;
-    font-style: italic;
+color: #323232;
+    font-size: 20px;
+    font-weight: 700;
+    vertical-align: baseline;
 }
 
 /*ENFASIS 2*/
@@ -1321,7 +1323,7 @@ border-left: 10px solid transparent;
 
 /*ENFASIS 8*/
 .bck-enfasis-8 {
-	color: #CF2A77;
+	color: #9E1981;
     font-weight: bold;
 }
 
@@ -1427,7 +1429,7 @@ border-left: 10px solid transparent;
 
 /*ENFASIS 17*/
 .bck-enfasis-17 {
-	color: #2D6C73;
+	color: #00A6BA;
 	font-size: 1.8rem;
 	font-weight: bold;
 }
@@ -3159,15 +3161,14 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
     color: #fff;
     text-align: center;
     font-size: 1.8rem;
-    background: #797676;
-    border-top-left-radius: 15px;
+    background: #9D9C88;
     padding: 10px 20px 0px 20px;
     font-weight: bold;
 }
 
 .bck-box-9 .bck-title:after {
 	content: "";
-    background-image: url(images/after_estrategias_reporterosusa.png);
+    background-image: url(images/icono_box-7_lesblogueurs.png);
     background-repeat: no-repeat;
     background-size: contain;
     padding: 25px;
@@ -3179,9 +3180,10 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 }
 
 .bck-box.bck-box-9>.bck-content {
-	padding: 20px 27px;
-	font-size: 1.7rem;
-	background: #E3E4E7;
+	padding: 15px;
+    font-size: 1.7rem;
+    background: #ffffff;
+    border: 2px solid #9d9c88;
 }
 
 
@@ -4866,15 +4868,15 @@ table.bck-table-7 td.bck-td-6 {
 
 /*TABLA 8*/ 
 table.bck-table-8 {
-	border: 2px solid #C94280;
+	border: 2px solid #9E1981;
 }
 
 table.bck-table-8 td {
-    border-color: #C94280;
+    border-color: #9E1981;
 }
 
 table.bck-table-8 td.bck-td-7 {
-    border-color: #fff;
+    border-color: #9E1981;
 }
 
 /*TABLA 9*/ 
@@ -4892,7 +4894,7 @@ table.bck-table-9 td.bck-td-8 {
 
 /*TABLA 10*/ 
 table.bck-table-10 {
-	border: 2px solid #007A88;
+	border: 2px solid #00A6BA;
 }
 
 table.bck-table-10 td {
@@ -4900,7 +4902,7 @@ table.bck-table-10 td {
 }
 
 table.bck-table-10 td.bck-td-9 {
-    border-color: #fff;
+    border-color: #00A6BA;
 }
 
 /*TABLA 11*/ 
@@ -4994,7 +4996,7 @@ table td.bck-td-6 {
 
 /*CELDA 7*/
 table td.bck-td-7 {
-	background-color: #C94280;
+	background-color: #9E1981;
 	color: #fff;
 	font-family: 'Conv_Calibre';
 	font-weight: bold;
@@ -5010,7 +5012,7 @@ table td.bck-td-8 {
 
 /*CELDA 9*/
 table td.bck-td-9 {
-	background-color: #007A88;
+	background-color: #00A6BA;
 	color: #fff;
 	font-family: 'Conv_Calibre';
 	font-weight: bold;
