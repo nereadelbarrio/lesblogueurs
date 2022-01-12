@@ -800,7 +800,7 @@ body.is_app .lesblogueurs-navbar.ocultar {
 
 /*Icono audio*/
 #actividad .player.audio {
-	background-image: url(images/icono_audio_reporterosusa.png);
+	background-image: url(images/icono_audio_lesblogueurs.png);
 	color: #fff;
 	vertical-align: middle;
 }
@@ -4565,7 +4565,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 }
 
 .item-container .icon-parejas-negro:before {
-	background-image: url(images/icono_enparejas_negro_reporterosusa.png);
+	background-image: url(images/icono_enparejas_negro_lesblogueurs.png);
 	width: 18px;
     height: 14px;
     margin-right: 5px;
@@ -4581,7 +4581,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 }
 
 .item-container .icon-grupos-negro:before {
-	background-image: url(images/icono_engrupos_negro_reporterosusa.png);
+	background-image: url(images/icono_engrupos_negro_lesblogueurs.png);
     width: 16px;
     height: 16px;
     margin-right: 5px;
