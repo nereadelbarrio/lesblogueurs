@@ -811,8 +811,8 @@ body.is_app .lesblogueurs-navbar.ocultar {
 #actividad .player.video,
 #help-panel-content .player,
 #remote-alert-modal-rich .player {
-	height: 20px !important;
-	width: 20px;
+	height: 35px !important;
+	width: 35px;
 	display: inline-block;
 	background-repeat: no-repeat;
 	border-radius: 100%;
@@ -4653,7 +4653,6 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 }
 
 
-
 .item-container .icon-dos-estrellas:before {
 	background-image: url(images/icono_dosestrellas_reporterosusa.png);
     width: 31px;
@@ -4765,6 +4764,14 @@ width: 19px;
 
 .item-container .icon-materials:before {
 	background-image: url(images/icono_materials_reporterosusa.png);
+	width: 19px;
+    height: 23px;;
+    margin-right: 5px;
+    margin-top: -5px;
+}
+
+.item-container .icon-dados:before {
+	background-image: url(images/icono_dados_negro_lesblogueurs.png);
 	width: 19px;
     height: 23px;;
     margin-right: 5px;
@@ -6464,47 +6471,6 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 
 
 /*Desplegable 1*/
-/*.bck-dropdown.bck-dropdown-1 {
-	background-color: #797676;
-	border-radius: 0;
-	border: none;
-}
-
-.bck-dropdown-1 .bck-dropdown-icon {
-	background-color: #797676;
-	display: inline-block;
-	float: right;
-}
-
-.bck-dropdown-1 .fa-chevron-up:before, 
-.bck-dropdown-1 .fa-chevron-down:before {
-    font-size: 2.2rem;
-}
-
-.bck-dropdown-1 .bck-dropdown-content {
-    background-color: #fff;
-    border: 1px solid #797676;
-    padding-left: 10px;
-    max-height: 800%;
-	text-align:center;
-	font-size: 22px;
-	text-align: left;
-}
-
-.bck-dropdown-1 .bck-dropdown-titulo {
-    font-size: 2.2rem;
-    padding: 5px 1px 1px 1px;
-}
-
-.bck-dropdown-1 .bck-dropdown-icon>.fa {
-    border: 0px solid white;
-    padding: 0px;
-    padding-right: 7px;
-    margin-left: -3px;
-}
-
-*/
-/*Desplegable 5*/
 
 .bck-dropdown.bck-dropdown-1 {
 	background-color: #fff;
@@ -6539,13 +6505,13 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 
 .bck-dropdown-1 .bck-dropdown-titulo {
 	color: #000;
-	font-size: 1.8rem;
+	font-size: 2.2rem;
 	padding-top: 2px;
 	font-weight: 600;
 }
 
 .bck-dropdown-1 .bck-dropdown-subtitulo {
-    display: none;
+    display: none !important;
 }
 
 
@@ -6556,6 +6522,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
     padding: 10px;
     padding-left: 20px;
 	max-height: 800%;
+	border: 1px solid #ffffff;
 }
 
 .bck-dropdown-1 .bck-dropdown-content p {
