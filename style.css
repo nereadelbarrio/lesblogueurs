@@ -909,12 +909,8 @@ body.is_app .lesblogueurs-navbar.ocultar {
 .bck-title-3 {
     font-size: 25px;
     border-bottom: none;
-    color: #fff;
+    color: #E7304A;
     font-weight: bold;
-    width: 100%;
-    position: relative;
-    background-color: #e30613;
-    padding: 8px 0px 0px;
 }
 
 
@@ -1404,11 +1400,11 @@ border-left: 10px solid transparent;
 }
 
 .bck-enfasis-15 { 
-	background-color: #D58001;
-	padding: 5px 5px 5px 5px;
-	color: #fff;
-	font-size: 22px;
-	font-family: 'Conv_BebasKai';
+background-color: #F49400;
+    padding: 5px 25px 5px 25px;
+    color: #fff;
+    font-size: 22px;
+    font-family: 'Conv_BebasKai';
 }
 
 /*ENFASIS 16*/
