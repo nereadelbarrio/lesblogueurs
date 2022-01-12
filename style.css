@@ -3877,6 +3877,21 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
     margin-top: 38px;
 }
 
+/*CAJA 29*/
+.bck-box.bck-box-29 {
+    margin-top: -2.6%;
+    position: relative;
+    left: -97px;
+    width: calc(100% + 194px);
+    padding: 0;
+    border: 0
+}
+
+.bck-box-29>.bck-content {
+    padding: 0
+}
+
+
 /*CAJA POP-UP*/
 .popover-title {
     margin: 0;
