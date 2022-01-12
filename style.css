@@ -1264,10 +1264,14 @@ border-left: 10px solid transparent;
 /*TITULO 23*/
 
 .bck-title-23 {
-	font-size: 2.6rem;
-	border-bottom: none;
-	color: #D58001;
-	font-weight: bold;
+font-size: 28px;
+    border-bottom: none;
+    color: #F49400;
+    font-weight: bold;
+    position: relative;
+    left: 230px;
+    margin-top: -60px;
+    padding-bottom: 16px;
 }
 
 
@@ -3540,7 +3544,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
     padding: 16px 20px 2px 20px;
     border: 0px;
     border-radius: 0px;
-    font-size: 30px;
+    font-size: 28px;
     margin-top: -27px;
 }
 
