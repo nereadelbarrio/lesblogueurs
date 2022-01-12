@@ -918,10 +918,10 @@ body.is_app .lesblogueurs-navbar.ocultar {
 /*TITULO 4*/
 
 .bck-title-4 {
-	font-size: 2.3rem;
-	border-bottom: none;
-	color: #00A6BA;
-	font-weight: bold;
+    font-size: 4.3rem;
+    border-bottom: 4px solid #E7304A;
+    color: #E7304A;
+    font-weight: bold;
 }
 
 /*TITULO 5*/
