@@ -129,6 +129,8 @@
 				{ name: 'Caja 26', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-26' } },
 				{ name: 'Caja 27', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-27' } },
 				{ name: 'Caja 28', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-28' } },
+				{ name: 'Caja 29', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box-29' } },
+
 
 				{ name: 'Icono Parejas Negro', element: 'span', attributes: { 'class': 'icon icon-parejas-negro' } },
 				{ name: 'Icono Grupos Negro', element: 'span', attributes: { 'class': 'icon icon-grupos-negro' } },
