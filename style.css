@@ -2912,56 +2912,13 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 
 /*CAJA 3*/
 .bck-box.bck-box-3 {
-	background: #FEF6EB;
-    border: 2px dotted #d58001;
-    border-radius: 15px;
-    color: #333;
-    padding: 20px;
-}
-
-.bck-box.bck-box-3>.bck-title {
-	font-family: 'Conv_BebasKai';
-	color: #D58001;
-    background: #fff;
-    padding: 6px 10px 0px 10px;
-    border: 2px solid #D58001;
-    border-radius: 10px;
-    text-align: center;
-    -moz-width: fit-content;
-    -ms-width: fit-content;
-    -webkit-width: fit-content;
-    -o-width: fit-content;
-    width: fit-content;
-	margin-left: 20px;
-    margin-top: -40px;
-    font-size: 30.8px;
-    box-shadow: none;
-}
-
-.bck-box.bck-box-3 .bck-title span  {
-    padding-bottom: 0px !important;
-}
-
-
-.bck-box.bck-box-3>.bck-content {
-	color: #333;
-    background: #FEF6EB;
-    padding: 5px;
-    font-size: 2rem;
-    padding-top: 15px;
-    font-family: 'Conv_PT_Sans-Web';
-}
-
-
-/*CAJA 4*/
-.bck-box.bck-box-4 {
 	background: transparent;
     border: none;
     text-align: left;
     border-radius: 0px;
 }
 
-.bck-box-4>.bck-title {
+.bck-box-3>.bck-title {
     border: 0px;
     color: #fff;
     text-align: left;
@@ -2971,9 +2928,38 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
     font-weight: bold;
 }
 
-.bck-box.bck-box-4>.bck-content {
+.bck-box.bck-box-3>.bck-content {
 	padding: 20px 27px;
 	background: #EEE3F0;
+}
+
+
+.bck-box.bck-box-3 .bck-title:before {
+	 display: none;
+}
+
+
+/*CAJA 4*/
+.bck-box.bck-box-4 {
+	background: transparent;
+    border: none;
+    text-align: left;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.bck-box-4>.bck-title {
+    border: 0px;
+    color: #fff;
+    text-align: left;
+    font-size: 2rem;
+    background: #7B603D;
+    padding: 10px 20px 0px 20px;
+    font-weight: bold;
+}
+
+.bck-box.bck-box-4>.bck-content {
+	padding: 20px 27px;
+	background: #fff;
 }
 
 
