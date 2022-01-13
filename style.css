@@ -940,19 +940,11 @@ font-size: 3.7rem;
 /*TITULO 6*/
 
 .bck-title-6 {
-	margin-top: 0px;
-    color: #fff;
-    font-size: 4.6rem;
-    border-bottom: none;
+    font-size: 4.3rem;
+    border-bottom: 4px solid #00A6BA;
+    color: #00A6BA;
     font-weight: bold;
-    background-color: #e30613;
-    padding: 10px 10px 0px 10px;
-    -moz-width: fit-content;
-    -ms-width: fit-content;
-    -webkit-width: fit-content;
-    -o-width: fit-content;
-    width: fit-content;
-    margin-bottom: 0px;
+    margin-bottom: 40px;
 }
 
 /*TITULO 7*/
@@ -2999,10 +2991,9 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 .bck-box-4>.bck-title {
     border: 0px;
     color: #fff;
-    text-align: center;
+    text-align: left;
     font-size: 1.8rem;
     background: #990381;
-    border-top-left-radius: 15px;
     padding: 10px 20px 0px 20px;
     font-weight: bold;
 }
@@ -3033,7 +3024,6 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
     text-align: center;
     font-size: 1.8rem;
     background: #017C91;
-    border-top-left-radius: 15px;
     padding: 10px 20px 0px 20px;
     font-weight: bold;
 }
