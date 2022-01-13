@@ -1289,8 +1289,9 @@ color: #323232;
 
 /*ENFASIS 3*/
 .bck-enfasis-3 {
-    color: #017C91;
+    color: #FFED00;
     font-weight: bold;
+    font-style: italic;
 }
 
 /*ENFASIS 4*/
