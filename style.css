@@ -4781,8 +4781,8 @@ width: 19px;
 
 .item-container .icon-exclamacion:before {
 	background-image: url(images/icono_exclamacion_azul_lesblogueurs.png);
-	width: 24px;
-    height: 24px;
+	width: 55px;
+    height: 57px;
     margin-right: 5px;
     margin-top: -5px;
 }
@@ -4820,11 +4820,11 @@ table.bck-table-1 td {
 
 /*TABLA 2*/ 
 table.bck-table-2 {
-	border: 2px solid #797676;
+	border: 2px solid #929292;
 }
 
 table.bck-table-2 td {
-    border-color: #797676;
+    border-color: #929292;
 }
 
 /*TABLA 3*/
@@ -4967,7 +4967,7 @@ table.bck-table-1 td.bck-td-1 {
 
 /*CELDA 2*/
 table td.bck-td-2 {
-	background-color: #797676;
+	background-color: #929292;
 	color: #fff;
 	font-family: 'Conv_Calibre';
 	font-weight: bold;
