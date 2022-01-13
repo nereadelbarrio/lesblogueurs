@@ -1289,8 +1289,10 @@ color: #323232;
 
 /*ENFASIS 2*/
 .bck-enfasis-2 {
-    color: #FFFC7C;
-    font-weight: bold;
+    color: #fff;
+    font-weight: 500;
+    background-color: #E7304A;
+    padding: 11px 12px 4px 12px;
 }
 
 /*ENFASIS 3*/
