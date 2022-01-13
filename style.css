@@ -3034,77 +3034,60 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 
 /*CAJA 7*/
 .bck-box.bck-box-7 {
-	min-height: 0;
-	margin-top: 15px;
-	border: 2px solid #017C91;
-	background-color: #fff;
-	padding: 20px;
+    background: transparent;
+    border: 0;
+    text-align: left;
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 11px 9px 9px -3px #b8b8b5;
 }
 
 .bck-box-7>.bck-title {
-	border-bottom: 0px solid transparent;
-	color: #333;
-	font-size: 22px;
-	background-color: #fff;
+    border: 0px;
+    color: #fff;
+    text-align: left;
+    font-size: 2rem;
+    background: #F49400;
+    padding: 10px 20px 0px 20px;
+    font-weight: bold;
 }
 
-.bck-box-7>.bck-content {
-	background-color: #fff;
-	border-radius: 0px;
-	color: #333;
-	font-size: 22px;
+.bck-box.bck-box-7>.bck-content {
+    padding: 20px 27px;
+    background: #fff;
+    border-radius: 0px 0px 20px 20px;
 }
+
+
+.bck-box.bck-box-7 .bck-title:before {
+	 display: none;
+}
+
 
 
 /*CAJA 8*/
-.bck-box-8 .bck-title:before {
-	display: none;
-}
-
-.bck-box .bck-box-8 {
-	min-height: 80px;
-	margin-top: 5px;
-	margin-bottom: 15px;
-	background-color: #FFFCDC;
-	border-radius: 25px;
-	padding: 15px;
+.bck-box.bck-box-8 {
+    background: transparent;
+    border: 0;
+    text-align: left;
 }
 
 .bck-box-8>.bck-title {
-	color: #333;
-	font-size: 20px;
-	text-align: left;
-	background-color: #FFFCDC;
-	padding: 10px;
+    border: 0px;
+    color: #fff;
+    text-align: left;
+    font-size: 2rem;
+    background: #AFB2DA;
+    padding: 10px 20px 0px 20px;
+    font-weight: bold;
 }
 
-.bck-box-8>.bck-content,
 .bck-box.bck-box-8>.bck-content {
-	background: #FFFCDC;
-	border-radius: 25px;
-	border: 2px solid #FFEF00;
-	padding-left: 45px;
-	font-size: 20px;
+    padding: 20px 27px;
 }
 
-.bck-box-8>.bck-content:before {
-	content: "";
-	background-image: url(images/lupa_reporterosusa.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	padding: 10px;
-    position: absolute;
-    margin-left: -30px;
-}
 
-.bck-box-8 {
-	background-color: #FFFCDC;
-	border-radius: 15px;
-	padding: 15px;
-}
-
-.bck-box-8:before {
-	display: none;
+.bck-box.bck-box-8 .bck-title:before {
+	 display: none;
 }
 
 /*CAJA 9*/
