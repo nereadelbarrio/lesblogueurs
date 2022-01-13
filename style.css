@@ -960,11 +960,10 @@ font-size: 3.7rem;
 /*TITULO 8*/
 
 .bck-title-8 {
-font-size: 3.7rem;
+font-size: 3.5rem;
     border-bottom: none;
     color: #9E1981;
     font-weight: bold;
-    text-transform: uppercase;
 }
 
 /*TITULO 9*/
@@ -1287,8 +1286,10 @@ color: #323232;
 
 /*ENFASIS 5*/
 .bck-enfasis-5 {
-    background-color: #FFFC7C;
-    padding: 3px;
+    color: #fff;
+    font-weight: 500;
+    background-color: #9E1981;
+    padding: 11px 12px 4px 12px;
 }
 
 /*Enfasis 6*/
@@ -1309,7 +1310,6 @@ color: #323232;
 .bck-enfasis-8 {
 	color: #9E1981;
     font-weight: bold;
-    font-size: 18px;
 }
 
 /*ENFASIS 9*/
