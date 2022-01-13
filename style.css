@@ -3163,51 +3163,35 @@ margin-bottom: 0px;
 }
 
 
-
-
 /*CAJA 11*/
 .bck-box.bck-box-11 {
-	background: transparent;
-    border: none;
-    text-align: left;
-    border-radius: 0px;
-}
-
-.bck-box-11>.bck-title {
-    border: 0px;
-    color: #fff;
-    text-align: center;
-    font-size: 2.4rem;
-    background: #C3422E;
-    border-top-left-radius: 15px;
-    padding: 15px 20px 0 20px;
-    font-weight: bold;
-}
-
-.bck-box-11>.bck-title:after {
-	content: "";
-    background-image: url(images/icono_sonidosyletras_reporterosusa.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-	padding: 45px;
-    position: absolute;
-    margin-top: -33px;
-    margin-right: 24px;
-    right: 0;
-    z-index: 1;
+    border: 1px solid #f49400;
+    border-radius: 15px;
+    background: #FAF9F5;
+    padding: 0px;
 }
 
 .bck-box.bck-box-11>.bck-content {
-	padding: 35px 27px;
-	background: #F7F0EC;
-	font-size: 2.2rem;
+	padding: 25px;
+	background: transparent;
 }
 
-
-.bck-box.bck-box-11>.bck-title:before {
-	 display: none;
+.bck-box.bck-box-11>.bck-title {
+background: #F49400;
+    width: fit-content;
+    font-weight: 500;
+    text-align: left;
+    color: #fff;
+    padding: 16px 20px 2px 20px;
+    border: 0px;
+    border-radius: 10px 0 0 0;
+    font-size: 26px;
+    margin-top: 0px;
 }
 
+.bck-box.bck-box-11>.bck-title p {
+margin-bottom: 0px;
+}
 
 /*CAJA 12*/
 
@@ -4718,6 +4702,14 @@ width: 19px;
 
 .item-container .icon-exclamacion:before {
 	background-image: url(images/icono_exclamacion_azul_lesblogueurs.png);
+	width: 55px;
+    height: 57px;
+    margin-right: 5px;
+    margin-top: -5px;
+}
+
+.item-container .icon-flechanaranja:before {
+	background-image: url(images/icono_flecha_naranja_lesblogueurs.png);
 	width: 55px;
     height: 57px;
     margin-right: 5px;
