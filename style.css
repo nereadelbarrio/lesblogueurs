@@ -2936,7 +2936,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 
 .bck-box.bck-box-2>.bck-title {
 	color: #333;
-    background: #ffded5;
+    background: #fad5d0;
     padding: 5px;
     font-size: 2.2rem;
 }
@@ -4779,6 +4779,14 @@ width: 19px;
 
 .item-container .icon-dados:before {
 	background-image: url(images/icono_dados_negro_lesblogueurs.png);
+	width: 19px;
+    height: 23px;;
+    margin-right: 5px;
+    margin-top: -5px;
+}
+
+.item-container .icon-colores:before {
+	background-image: url(images/icono_rueda_colores_lesblogueurs.png);
 	width: 19px;
     height: 23px;;
     margin-right: 5px;
