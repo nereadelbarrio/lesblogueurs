@@ -994,31 +994,19 @@ font-size: 3.5rem;
 /*TITULO 11*/
 
 .bck-title-11 {
-	background-color: #797676;
 	color: #fff;
-	border-top-left-radius: 10px;
-	border-top-right-radius: 10px;
-	padding: 8px 30px 2px 30px;
-	text-align: center;
-	-moz-width: fit-content;
-    -ms-width: fit-content;
-    -webkit-width: fit-content;
-    -o-width: fit-content;
+    background-color: #5C6CB0;
     width: fit-content;
-	font-weight: bolder;
-	font-size: 24px;
+    font-size: 4rem;
+    padding: 17px 75px 0px 159px;
+    margin-left: -158px;
+    text-transform: uppercase;
+    margin-top: 0;
+    font-weight: 600;
+    border-bottom: none;
+    box-shadow: none;
 }
 
-.bck-title-11:before {
-	content: "";
-    border-left: 15px solid transparent;
-    border-right: 15px solid transparent;
-    border-top: 15px solid #797676;
-    margin-top: 25px;
-    margin-left: -25px;
-    position: absolute;
-
-}
 
 /*TITULO 12*/
 
@@ -2912,7 +2900,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
     font-size: 2.2rem;
 }
 
-.bck-box.bck-box-2 .bck-title:before {
+.bck-box.bck-box-2>.bck-title:before {
 	display: none;
 }
 
@@ -2940,7 +2928,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 }
 
 
-.bck-box.bck-box-3 .bck-title:before {
+.bck-box.bck-box-3>.bck-title:before {
 	 display: none;
 }
 
@@ -2971,7 +2959,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 }
 
 
-.bck-box.bck-box-4 .bck-title:before {
+.bck-box.bck-box-4>.bck-title:before {
 	 display: none;
 }
 
@@ -3000,7 +2988,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 }
 
 
-.bck-box.bck-box-5 .bck-title:before {
+.bck-box.bck-box-5>.bck-title:before {
 	 display: none;
 }
 
@@ -3028,7 +3016,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 }
 
 
-.bck-box.bck-box-6 .bck-title:before {
+.bck-box.bck-box-6>.bck-title:before {
 	 display: none;
 }
 
@@ -3058,7 +3046,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 }
 
 
-.bck-box.bck-box-7 .bck-title:before {
+.bck-box.bck-box-7>.bck-title:before {
 	 display: none;
 }
 
