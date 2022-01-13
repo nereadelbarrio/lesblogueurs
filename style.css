@@ -4779,16 +4779,16 @@ width: 19px;
 
 .item-container .icon-dados:before {
 	background-image: url(images/icono_dados_negro_lesblogueurs.png);
-	width: 19px;
-    height: 23px;;
+	width: 23px;
+    height: 19px;
     margin-right: 5px;
     margin-top: -5px;
 }
 
 .item-container .icon-colores:before {
 	background-image: url(images/icono_rueda_colores_lesblogueurs.png);
-	width: 19px;
-    height: 23px;;
+	width: 24px;
+    height: 24px;
     margin-right: 5px;
     margin-top: -5px;
 }
