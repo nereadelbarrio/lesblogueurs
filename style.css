@@ -3054,14 +3054,16 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 
 /*CAJA 8*/
 .bck-box.bck-box-8 {
-    background: transparent;
+background: transparent;
     border: 0;
     text-align: left;
+    width: 50%;
+    font-size: 20px;
 }
 
 .bck-box-8>.bck-title {
     border: 0px;
-    color: #fff;
+    color: #000;
     text-align: left;
     font-size: 2rem;
     background: #AFB2DA;
@@ -3071,6 +3073,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 
 .bck-box.bck-box-8>.bck-content {
     padding: 20px 27px;
+    background: #fff;
 }
 
 
