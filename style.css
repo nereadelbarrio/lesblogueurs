@@ -1221,7 +1221,7 @@ font-size: 28px;
     color: #F49400;
     font-weight: bold;
     position: relative;
-    left: 230px;
+    left: 240px;
     margin-top: -60px;
     padding-bottom: 16px;
 }
@@ -3174,6 +3174,7 @@ margin-bottom: 0px;
 .bck-box.bck-box-11>.bck-content {
 	padding: 25px;
 	background: transparent;
+	font-weight: 500;
 }
 
 .bck-box.bck-box-11>.bck-title {
@@ -4710,9 +4711,9 @@ width: 19px;
 
 .item-container .icon-flechanaranja:before {
 	background-image: url(images/icono_flecha_naranja_lesblogueurs.png);
-	width: 55px;
-    height: 57px;
-    margin-right: 5px;
+width: 49px;
+    height: 50px;
+    margin-right: 0px;
     margin-top: -5px;
 }
 
