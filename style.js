@@ -154,7 +154,8 @@
 				{ name: 'Icono Flecha Azul', element: 'span', attributes: { 'class': 'icon icon-flechaazul' } },
 				{ name: 'Icono Rubric', element: 'span', attributes: { 'class': 'icon icon-rubric' } },
 				{ name: 'Icono Materials', element: 'span', attributes: { 'class': 'icon icon-materials' } },
-				{ name: 'Icono Dados', element: 'span', attributes: { 'class': 'icon icon-dados' } },	
+				{ name: 'Icono Dados', element: 'span', attributes: { 'class': 'icon icon-dados' } },
+				{ name: 'Icono Colores', element: 'span', attributes: { 'class': 'icon icon-colores' } },	
 				
 				
 				{ name: 'Tabla 01', element: 'table', attributes: { 'class': 'bck-table-1' } },
