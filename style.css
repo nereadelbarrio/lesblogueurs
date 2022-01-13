@@ -1296,7 +1296,7 @@ color: #323232;
 
 /*ENFASIS 4*/
 .bck-enfasis-4 {
-    color: #797676;
+    color: #00A6BA;
     font-weight: bold;
 }
 
@@ -2019,7 +2019,7 @@ counter-increment: bck-li-counter;
     font-weight: 700;
     position: absolute;
     color: #fff;
-    background-color: #017C91;
+    background-color: #00A6BA;
     font-size: 2rem;
     width: 28px;
     height: 28px;
@@ -3021,7 +3021,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 .bck-box-5>.bck-title {
     border: 0px;
     color: #fff;
-    text-align: center;
+    text-align: left;
     font-size: 2rem;
     background: #017C91;
     padding: 10px 20px 0px 20px;
@@ -3049,7 +3049,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 .bck-box-6>.bck-title {
     border: 0px;
     color: #fff;
-    text-align: center;
+    text-align: left;
     font-size: 2rem;
     background: #706F6F;
     padding: 10px 20px 0px 20px;
@@ -4778,6 +4778,15 @@ width: 19px;
     margin-right: 5px;
     margin-top: -5px;
 }
+
+.item-container .icon-exclamacion:before {
+	background-image: url(images/icono_exclamacion_azul_lesblogueurs.png);
+	width: 24px;
+    height: 24px;
+    margin-right: 5px;
+    margin-top: -5px;
+}
+
 
 
 /**TABLA**/
