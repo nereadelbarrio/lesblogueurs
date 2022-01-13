@@ -950,36 +950,21 @@ font-size: 3.7rem;
 /*TITULO 7*/
 
 .bck-title-7 {
-	color: #fff;
-	background-color: #2D6C73;
-	border-radius: 10px;
-	text-align: center;
-	margin: auto;
-	padding: 10px 25px 4px 25px;
-	font-weight: bold;
-	 -moz-width: fit-content;
-    -ms-width: fit-content;
-    -webkit-width: fit-content;
-    -o-width: fit-content;
-    width: fit-content;
-	font-size: 2.4rem;
+    font-size: 4.3rem;
+    border-bottom: 4px solid #9E1981;
+    color: #9E1981;
+    font-weight: bold;
+    margin-bottom: 40px;
 }
 
 /*TITULO 8*/
 
 .bck-title-8 {
-	color: #fff;
-    background-color: #2D6C73;
-    padding: 5px 5px 0px 5px;
+font-size: 3.7rem;
+    border-bottom: none;
+    color: #9E1981;
     font-weight: bold;
-    -moz-width: fit-content;
-    -ms-width: fit-content;
-    -webkit-width: fit-content;
-    -o-width: fit-content;
-    width: fit-content;
-    box-shadow: none;
-    border-radius: 0px;
-    font-size: 2.2rem;
+    text-transform: uppercase;
 }
 
 /*TITULO 9*/
@@ -1865,7 +1850,7 @@ counter-increment: bck-li-counter;
 #actividad .content .workspace ul li .bck-ol-7 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
-	padding-left: 60px;
+	padding-left: 52px;
 }
 
 #actividad .content .cke_contents .bck-ol-7 li,
@@ -1877,10 +1862,9 @@ counter-increment: bck-li-counter;
     padding-left: 5px;
     position: relative;
     z-index: 0;
-    font-weight: 700;
-    color: #e30613;
+    font-weight: 400;
+    color: #000;
     font-size: 24px;
-    margin-left: -8px;
 }
 
 
@@ -1888,18 +1872,18 @@ counter-increment: bck-li-counter;
 #actividad .content .texto_curso .bck-ol-7 li:before,
 #actividad .popover-content .bck-ol-7 li:before,
 #actividad .content .workspace ul li .bck-ol-7 li:before {
-	content: counter(bck-li-counter);
+	content: counter(bck-li-counter, upper-alpha);
     font-family: Conv_Calibre;
     font-weight: 700;
     position: absolute;
     color: #fff;
-    background-color: #e30613;
-    font-size: 22px;
-    width: 30px;
-    height: 30px;
-    padding: 2px 1px 0;
-    margin-top: -2px;
-    margin-left: -5px;
+    background-color: #9E1981;
+    font-size: 2.2rem;
+    width: 35px;
+    height: 35px;
+    padding: 4px 1px 0;
+    margin-top: -5px;
+    margin-left: -15px;
     text-align: center;
     border-radius: 100%;
 }
