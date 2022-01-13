@@ -2941,10 +2941,11 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 
 /*CAJA 4*/
 .bck-box.bck-box-4 {
-	background: transparent;
-    border: none;
+    background: transparent;
+    border: 0;
     text-align: left;
     border-radius: 0px 0px 20px 20px;
+    box-shadow: 11px 9px 9px -3px #b8b8b5;
 }
 
 .bck-box-4>.bck-title {
@@ -2958,8 +2959,9 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 }
 
 .bck-box.bck-box-4>.bck-content {
-	padding: 20px 27px;
-	background: #fff;
+    padding: 20px 27px;
+    background: #fff;
+    border-radius: 0px 0px 20px 20px;
 }
 
 
