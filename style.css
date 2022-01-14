@@ -3155,7 +3155,7 @@ background: #F49400;
     border: 0px;
     border-radius: 10px 0 0 0;
     font-size: 26px;
-    margin-top: 0px;
+    margin-top: -1px;
 }
 
 .bck-box.bck-box-10>.bck-title p {
@@ -3173,7 +3173,7 @@ margin-bottom: 0px;
 
 .bck-box.bck-box-11>.bck-content {
 	padding: 25px;
-	background: transparent;
+	background: #fff;
 	font-weight: 500;
 }
 
@@ -3187,7 +3187,7 @@ background: #F49400;
     border: 0px;
     border-radius: 10px 0 0 0;
     font-size: 26px;
-    margin-top: 0px;
+    margin-top: -1px;
 }
 
 .bck-box.bck-box-11>.bck-title p {
