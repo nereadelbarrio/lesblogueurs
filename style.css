@@ -5096,9 +5096,9 @@ body:not(.edit) .modal.fade .modal-dialog {
 	background-position: center;
 }
 
-/*TAGS*/
+/*TAGS
 
-/*--------------------------------------------------TAGS TOC---------------------------------------------*/
+/*--------------------------------------------------TAGS TOC---------------------------------------------
 #list-units .unittag_gris_lesblogueurs:hover,
 #list-units .unittag_rojo_lesblogueurs:hover,
 #list-units .unittag_azulclaro_lesblogueurs:hover,
@@ -5116,47 +5116,47 @@ body:not(.edit) .modal.fade .modal-dialog {
 	background-color: #000000 !important;
 }
 
-/*Gris*/
+/*Gris
 #list-units .unittag_gris_lesblogueurs {
 	background-color: #6f766f !important;
 }
 
-/*Rojo*/
+/*Rojo
 #list-units .unittag_rojo_lesblogueurs {
 	background-color: #e30613 !important;
 }
 
-/*Azul claro*/
+/*Azul claro
 #list-units .unittag_azulclaro_lesblogueurs {
 	background-color: #3D72B3 !important;
 }
 
-/*Verde*/
+/*Verde
 #list-units .unittag_verde_lesblogueurs {
 	background-color: #197126 !important;
 }
 
-/*Azul oscuro*/
+/*Azul oscuro
 #list-units .unittag_azuloscuro_lesblogueurs {
 	background-color: #0e4090 !important;
 }
 
-/*Morado*/
+/*Morado
 #list-units .unittag_morado_lesblogueurs {
 	background-color: #79639b !important;
 }
 
-/*Rosa*/
+/*Rosa
 #list-units .unittag_rosa_lesblogueurs {
 	background-color: #de0067 !important;
 }
 
-/*unidad_cero*/
+/*unidad_cero
 #list-units .unittag_unidad_cero_reporterosusa {
 	background-color: #616161 !important;
 }
 
-/*no_unidad*/
+/*no_unidad
 #list-units .unittag_no_unidad_lesblogueurs {
 	background-color: #757575 !important;
 }
@@ -5173,7 +5173,7 @@ body:not(.edit) .modal.fade .modal-dialog {
 
 
 
-/*----------------UNITTAG GRIS------------------------*/
+/*----------------UNITTAG GRIS------------------------
 
 .unittag_gris_lesblogueurs .bck-tooltip {
     color: #D91F52;
@@ -5243,7 +5243,7 @@ body:not(.edit) .modal.fade .modal-dialog {
 .unittag_gris_lesblogueurs .bck-enfasis-25 {
 	border: 2px solid #D91F52;
 }
-*/
+
 
 .unittag_gris_lesblogueurs .bck-enfasis-26 {
     background-color: #D91F52;
@@ -5359,7 +5359,7 @@ body:not(.edit) .modal.fade .modal-dialog {
 }
 
 
-/*----------------UNITTAG AZUL CLARO------------------------*/
+/*----------------UNITTAG AZUL CLARO------------------------
 
 .unittag_azulclaro_lesblogueurs .bck-tooltip {
     color: #C94280;
@@ -5429,7 +5429,7 @@ body:not(.edit) .modal.fade .modal-dialog {
 .unittag_azulclaro_lesblogueurs .bck-enfasis-25 {
 	border: 2px solid #C94280;
 }
-*/
+
 
 .unittag_azulclaro_lesblogueurs .bck-enfasis-26 {
     background-color: #C94280;
@@ -5544,7 +5544,7 @@ body:not(.edit) .modal.fade .modal-dialog {
 	background: #3D72B3;
 }
 
-/*----------------UNITTAG VERDE------------------------*/
+/*----------------UNITTAG VERDE------------------------
 
 .unittag_verde_lesblogueurs .bck-tooltip {
     color: #006DA8;
@@ -5615,7 +5615,7 @@ body:not(.edit) .modal.fade .modal-dialog {
 .unittag_verde_lesblogueurs .bck-enfasis-25 {
 	border: 2px solid #006DA8;
 }
-*/
+
 
 .unittag_verde_lesblogueurs .bck-enfasis-26 {
     background-color: #006DA8;
@@ -5732,7 +5732,7 @@ body:not(.edit) .modal.fade .modal-dialog {
 
 
 
-/*----------------UNITTAG AZUL OSCURO------------------------*/
+/*----------------UNITTAG AZUL OSCURO------------------------
 
 .unittag_azuloscuro_lesblogueurs .bck-tooltip {
     color: #767B24;
@@ -5804,7 +5804,7 @@ body:not(.edit) .modal.fade .modal-dialog {
 .unittag_azuloscuro_lesblogueurs .bck-enfasis-25 {
 	border: 2px solid #767B24;
 }
-*/
+
 
 .unittag_azuloscuro_lesblogueurs .bck-enfasis-26 {
     background-color: #767B24;
@@ -5921,7 +5921,7 @@ body:not(.edit) .modal.fade .modal-dialog {
 
 
 
-/*----------------UNITTAG MORADO------------------------*/
+/*----------------UNITTAG MORADO------------------------
 
 .unittag_morado_lesblogueurs .bck-tooltip {
     color: #197126;
@@ -5992,7 +5992,7 @@ body:not(.edit) .modal.fade .modal-dialog {
 .unittag_morado_lesblogueurs .bck-enfasis-25 {
 	border: 2px solid #197126;
 }
-*/
+
 
 .unittag_morado_lesblogueurs .bck-enfasis-26 {
     background-color: #197126;
@@ -6107,7 +6107,7 @@ body:not(.edit) .modal.fade .modal-dialog {
 }
 
 
-/*----------------UNITTAG ROSA------------------------*/
+/*----------------UNITTAG ROSA------------------------
 
 .unittag_rosa_lesblogueurs .bck-tooltip {
     color: #007A88;
@@ -6178,7 +6178,7 @@ body:not(.edit) .modal.fade .modal-dialog {
 .unittag_rosa_lesblogueurs .bck-enfasis-25 {
 	border: 2px solid #007A88;
 }
-*/
+
 
 .unittag_rosa_lesblogueurs .bck-enfasis-26 {
     background-color: #007A88;
@@ -6296,7 +6296,7 @@ body:not(.edit) .modal.fade .modal-dialog {
 
 
 
-/*secciÃ³n intro*/
+/*secciÃ³n intro
 #actividad .content .intro .header .title h3 {
 	color: #333;
 	font-size: 2.5rem;
@@ -6317,6 +6317,7 @@ body:not(.edit) .modal.fade .modal-dialog {
 	background-color: #fff;
 	color: #fff;
 }
+*/
 
 /**iframe**/
 #iframe_div.scorm {
