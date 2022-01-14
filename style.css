@@ -3156,6 +3156,7 @@ background: #F49400;
     border-radius: 10px 0 0 0;
     font-size: 26px;
     margin-top: -1px;
+    margin-left: -1px;
 }
 
 .bck-box.bck-box-10>.bck-title p {
@@ -3187,6 +3188,7 @@ background: #F49400;
     border-radius: 10px 0 0 0;
     font-size: 26px;
     margin-top: -1px;
+    margin-left: -1px;
 }
 
 .bck-box.bck-box-11>.bck-title p {
@@ -4494,13 +4496,13 @@ margin-bottom: 0px;
     margin-top: -5px;
 }
 
-.item-container .icon-parejas-blanco:before {
+/*.item-container .icon-parejas-blanco:before {
 	background-image: url(images/icono_enparejas_blanco_reporterosusa.png);
 	width: 18px;
     height: 13px;
     margin-right: 5px;
     margin-top: -5px;
-}
+}*/
 
 .item-container .icon-grupos-negro:before {
 	background-image: url(images/icono_engrupos_negro_lesblogueurs.png);
@@ -4510,7 +4512,7 @@ margin-bottom: 0px;
     margin-top: -5px;
 }
 
-.item-container .icon-grupos-blanco:before {
+/*.item-container .icon-grupos-blanco:before {
 	background-image: url(images/icono_engrupos_blanco_reporterosusa.png);
     width: 16px;
     height: 16px;
@@ -4620,7 +4622,7 @@ margin-bottom: 0px;
     vertical-align: top;
     margin-right: 5px;
     margin-top: 1px;
-}
+}*/
 
 
 .item-container .icon-video:before {
@@ -4637,7 +4639,7 @@ margin-bottom: 0px;
     height: 18px;
 }
 
-.item-container .icon-like:before {
+/*.item-container .icon-like:before {
 	background-image: url(images/icono_like_reporterosusa.png);
 	width: 23px;
     height: 23px;
@@ -4667,7 +4669,7 @@ width: 19px;
     content: "\f061";
     color: #00A6BA;
     margin-right: 5px;
-}
+}*/
 
 .item-container .icon-rubric:before {
 	background-image: url(images/icono_rubric_reporterosusa.png);
