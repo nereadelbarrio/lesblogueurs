@@ -199,7 +199,7 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
 	color: #fff;
 }
 
-/*Hover y active  unidad_no_unidad*/
+/*Hover y active  unidad_no_unidad
 
 #list-units .unittag_no_unidad_lesblogueurs.active:not(.disabled), 
 #list-units .unittag_no_unidad_lesblogueurs:hover,
@@ -208,7 +208,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .units ul li:focus:not(.disabled),
 #indice .units ul li.active:not(.disabled) {
     background-color: #000!important;
-}
+}*/
 
 body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	color: #fff;
@@ -498,7 +498,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*MENU LATERAL*/
 
-#list-units .unittag_gris_lesblogueurs.active:not(.disabled), 
+/*#list-units .unittag_gris_lesblogueurs.active:not(.disabled), 
 #list-units .unittag_gris_lesblogueurs:hover, 
 #list-units .unittag_rojo_lesblogueurs.active:not(.disabled), 
 #list-units .unittag_rojo_lesblogueurs:hover, 
@@ -515,11 +515,11 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 #list-units .unittag_punteado_lesblogueurs.active:not(.disabled), 
 #list-units .unittag_punteado_lesblogueurs:hover, 
 #list-units .unittag_unidadcero_lesblogueurs.active:not(.disabled), 
-#list-units .unittag_unidadcero_lesblogueurs:hover, 
+#list-units .unittag_unidadcero_lesblogueurs:hover,*/ 
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
 #indice .units ul li:focus:not(.disabled), 
 #indice .units ul li.active:not(.disabled) {
-    background-color: #000!important;
+    background-color: #0085B2 !important;
 }
 
 #book-index #indice .units ul li {
@@ -6672,7 +6672,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 
 .btn-primary, 
 .btn-primary.disabled {
-    background-color: #000000;
+    background-color: #0085B2;
     color: #fff;
 }
 
