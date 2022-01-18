@@ -1299,7 +1299,7 @@ color: #323232;
 
 .bck-enfasis-9 { 
 	background-color: #F49400;
-    padding: 7px 25px 5px 25px;
+    padding: 10px 25px 5px 25px;
     color: #fff;
     font-size: 16px;
     font-weight: 600;
@@ -1315,7 +1315,7 @@ color: #323232;
 /*ENFASIS 11*/
 .bck-enfasis-11 { 
 	background-color: #5C6CB0;
-	padding: 7px 25px 5px 25px;
+	padding: 10px 25px 5px 25px;
     color: #fff;
     font-size: 16px;
     font-weight: 600;
@@ -3063,7 +3063,7 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
     border: 0;
     text-align: left;
     border-radius: 0px 0px 20px 20px;
-    box-shadow: 11px 9px 9px -3px #b8b8b5;
+    box-shadow: 3px 9px 9px 2px #b8b8b5;
 }
 
 .bck-box-7>.bck-title {
@@ -3114,7 +3114,7 @@ background: transparent;
 }
 
 
-.bck-box.bck-box-8 .bck-title:before {
+.bck-box.bck-box-8>.bck-title:before {
 	 display: none;
 }
 
