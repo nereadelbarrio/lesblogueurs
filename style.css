@@ -2346,30 +2346,30 @@ counter-increment: bck-li-counter;
     border-radius: 100%;
 }
 
-/*LISTA ORDENADA 19*/
-#actividad .content .cke_contents .bck-ol-19,
-#actividad .content .texto_curso .bck-ol-19,
-#actividad .content .workspace ul li .bck-ol-19 {
+/*LISTA ORDENADA 10 grabacion*/
+#actividad .content .cke_contents .bck-ol-10,
+#actividad .content .texto_curso .bck-ol-10,
+#actividad .content .workspace ul li .bck-ol-10 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
 	padding-left: 42px;
 }
 
-#actividad .content .cke_contents .bck-ol-19 li,
-#actividad .content .cke_contents .bck-ol-19 li,
-#actividad .content .texto_curso .bck-ol-19 li,
-#actividad .popover-content .bck-ol-19 li,
-#actividad .content .workspace ul li .bck-ol-19 li {
+#actividad .content .cke_contents .bck-ol-10 li,
+#actividad .content .cke_contents .bck-ol-10 li,
+#actividad .content .texto_curso .bck-ol-10 li,
+#actividad .popover-content .bck-ol-10 li,
+#actividad .content .workspace ul li .bck-ol-10 li {
 	counter-increment: bck-li-counter;
 	padding-left: 3px;
 	z-index: 0;
 	font-size: 2.2rem;
 }
 
-#actividad .content .cke_contents .bck-ol-19 li:before,
-#actividad .content .texto_curso ol.bck-ol-19 li:before,
-#actividad .popover-content ol.bck-ol-19 li:before,
-#actividad .content .workspace ul li ol.bck-ol-19 li:before {
+#actividad .content .cke_contents .bck-ol-10 li:before,
+#actividad .content .texto_curso ol.bck-ol-10 li:before,
+#actividad .popover-content ol.bck-ol-10 li:before,
+#actividad .content .workspace ul li ol.bck-ol-10 li:before {
 	content: counter(bck-li-counter, lower-alpha)'.';
 	position: absolute;
 	color: #000;
@@ -2381,6 +2381,43 @@ counter-increment: bck-li-counter;
 	margin: 0px 0px 0px -1px;
 	width: inherit;
 	top: 14px;
+}
+
+/*LISTA ORDENADA 11 rellenar espacios*/
+#actividad .content .cke_contents .bck-ol-11,
+#actividad .content .texto_curso .bck-ol-11,
+#actividad .content .workspace ul li .bck-ol-11 {
+	list-style-type: none;
+	counter-reset: bck-li-counter;
+	padding-left: 43px;
+}
+
+#actividad .content .cke_contents .bck-ol-11 li,
+#actividad .content .cke_contents .bck-ol-11 li,
+#actividad .content .texto_curso .bck-ol-11 li,
+#actividad .popover-content .bck-ol-11 li,
+#actividad .content .workspace ul li .bck-ol-11 li {
+	counter-increment: bck-li-counter;
+	padding-left: 0px;
+	position: relative;
+	z-index: 0;
+	font-size: 2.2rem;
+}
+
+#actividad .content .cke_contents .bck-ol-11 li:before,
+#actividad .content .texto_curso ol.bck-ol-11 li:before,
+#actividad .popover-content ol.bck-ol-11 li:before,
+#actividad .content .workspace ul li ol.bck-ol-11 li:before {
+	content: counter(bck-li-counter) ".";
+	position: absolute;
+	color: #333;
+	font-weight: bold;
+	margin-top: 3px;
+	text-align: right;
+	margin-left: -10px;
+	width: 29px;
+	font-family: Conv_Calibre;
+	font-size: 2.2rem;
 }
 
 
