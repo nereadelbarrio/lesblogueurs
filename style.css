@@ -2820,9 +2820,9 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 }
 
 #actividad .content .cke_contents .bck-ul-7 li:before,
-#actividad .content .texto_curso ul.bck-ul- li:before,
-#actividad .popover-content ul.bck-ul- li:before,
-#actividad .content .workspace ul li ul.bck-ul- li:before {
+#actividad .content .texto_curso ul.bck-ul-7 li:before,
+#actividad .popover-content ul.bck-ul-7 li:before,
+#actividad .content .workspace ul li ul.bck-ul-7 li:before {
 	content: "";
     height: 6px;
     width: 6px;
