@@ -1259,10 +1259,14 @@ color: #323232;
 
 /*ENFASIS 4*/
 .bck-enfasis-4 {
-    background-color: #B3DDF0;
+background-color: #B3DDF0;
     padding: 5px 5px 0px 5px;
     font-size: 1.3rem;
     border-radius: 3px;
+    position: relative;
+    top: 30px;
+    left: -45px;
+    z-index: 1;
 }
 
 /*ENFASIS 5*/
