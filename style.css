@@ -4393,13 +4393,13 @@ margin-bottom: 0px;
 
 #actividad .workspace.clasificar .clasificar_lista .classify-item {
 	background: #fff;
-	padding-left: 10px;
-	padding-right: 10px;
-	padding-top: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 12px;
 }
 
-#actividad .workspace.clasificar .clasificar_conjuntos .group-name-title{
-	padding: 15px 0 10px 0;
+#actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
+	border: 3px solid #d8d8d8;
 }
 
 #actividad .workspace.clasificar .clasificar_conjuntos span.solucion img {
@@ -5031,7 +5031,7 @@ table.bck-table-2 td.bck-td-2 {
 
 
 table td.bck-td-3 {
-	background-color: #9b2590;
+	background-color: #5C6CB0;
 	color: #fff;
 	font-family: 'Conv_Calibre';
 	font-weight: bold;
