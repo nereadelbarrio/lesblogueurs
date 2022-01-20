@@ -3535,6 +3535,38 @@ margin-top: -2.6%;
 margin-bottom: 0px;
 }
 
+/*CAJA 18*/
+.bck-box.bck-box-18 {
+	background: transparent;
+    border: none;
+    text-align: left;
+    border-radius: 0px;
+}
+
+.bck-box-18>.bck-title {
+    .bck-box-6>.bck-title {
+    border: 0px;
+    border-radius: 20px 20px 0 0;
+    color: #fff;
+    width: fit-content;
+    text-align: left;
+    font-size: 2rem;
+    background: #E7304A;
+    padding: 10px 20px 0px 20px;
+    font-weight: bold;
+}
+
+.bck-box.bck-box-18>.bck-content {
+	padding: 20px 27px;
+    background: #ffffff;
+    border: 2px solid #e7304a;
+}
+
+
+.bck-box.bck-box-18>.bck-title:before {
+	 display: none;
+}
+
 /********REPORTERORS BORRAR AL FINAL*******/
 
 /*CAJA 12
