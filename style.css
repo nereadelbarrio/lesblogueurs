@@ -1248,6 +1248,8 @@ color: #323232;
     font-weight: 500;
     background-color: #E7304A;
     padding: 11px 12px 4px 12px;
+    display: inline-block;
+    margin-bottom: 8px;
 }
 
 /*ENFASIS 3*/
