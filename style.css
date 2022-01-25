@@ -1237,9 +1237,9 @@ font-size: 28px;
 /*ENFASIS 1*/
 .bck-enfasis-1 {
 color: #323232;
-    font-size: 20px;
+    font-size: 23px;
     font-weight: 700;
-    vertical-align: baseline;
+    vertical-align: top;
 }
 
 /*ENFASIS 2*/
