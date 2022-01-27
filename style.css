@@ -7039,6 +7039,14 @@ text-decoration: underline;
 
 /*------------------------------------------QUERIES-------------------------------------------*/
 
+@media only screen and (max-width: 1024px) and (min-width:868px) {
+	.bck-title-12 {
+		position: relative;
+    left: inherit;
+    margin-top: 10px;
+	}
+	}
+
 @media screen and (max-width: 375px){
 	.bck-title-1 {
 		font-size: 60px;
