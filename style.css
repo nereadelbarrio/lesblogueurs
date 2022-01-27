@@ -2501,7 +2501,7 @@ counter-increment: bck-li-counter;
 #actividad .content .texto_curso .bck-ol-13 li:before,
 #actividad .popover-content .bck-ol-13 li:before,
 #actividad .content .workspace ul li .bck-ol-13 li:before {
-	content: counter(bck-li-counter, lower-alpha)'.';
+	content: counter(bck-li-counter);
     font-family: Conv_Calibre;
     font-weight: 700;
     position: absolute;
@@ -2542,7 +2542,7 @@ counter-increment: bck-li-counter;
 #actividad .content .texto_curso ol.bck-ol-14 li:before,
 #actividad .popover-content ol.bck-ol-14 li:before,
 #actividad .content .workspace ul li ol.bck-ol-14 li:before {
-	content: counter(bck-li-counter) ".";
+	content: counter(bck-li-counter, lower-alpha)'.';
 	position: absolute;
 	color: #333;
 	font-weight: bold;
