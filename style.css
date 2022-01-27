@@ -2501,7 +2501,7 @@ counter-increment: bck-li-counter;
 #actividad .content .texto_curso .bck-ol-13 li:before,
 #actividad .popover-content .bck-ol-13 li:before,
 #actividad .content .workspace ul li .bck-ol-13 li:before {
-	content: counter(bck-li-counter);
+	content: counter(bck-li-counter, lower-alpha)'.';
     font-family: Conv_Calibre;
     font-weight: 700;
     position: absolute;
@@ -2517,6 +2517,42 @@ counter-increment: bck-li-counter;
     border-radius: 100%;
 }
 
+/*LISTA ORDENADA 14*/
+#actividad .content .cke_contents .bck-ol-14,
+#actividad .content .texto_curso .bck-ol-14,
+#actividad .content .workspace ul li .bck-ol-14 {
+	list-style-type: none;
+	counter-reset: bck-li-counter;
+	padding-left: 43px;
+}
+
+#actividad .content .cke_contents .bck-ol-14 li,
+#actividad .content .cke_contents .bck-ol-14 li,
+#actividad .content .texto_curso .bck-ol-14 li,
+#actividad .popover-content .bck-ol-14 li,
+#actividad .content .workspace ul li .bck-ol-14 li {
+	counter-increment: bck-li-counter;
+	padding-left: 0px;
+	position: relative;
+	z-index: 0;
+	font-size: 2.2rem;
+}
+
+#actividad .content .cke_contents .bck-ol-14 li:before,
+#actividad .content .texto_curso ol.bck-ol-14 li:before,
+#actividad .popover-content ol.bck-ol-14 li:before,
+#actividad .content .workspace ul li ol.bck-ol-14 li:before {
+	content: counter(bck-li-counter) ".";
+	position: absolute;
+	color: #333;
+	font-weight: bold;
+	margin-top: 3px;
+	text-align: right;
+	margin-left: -10px;
+	width: 29px;
+	font-family: Conv_Calibre;
+	font-size: 2.2rem;
+}
 
 /*LISTAS DESORDENADAS*/
 .texto_curso ul li {
@@ -6857,7 +6893,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 	background: #fcf6eb;
 }
 
-/*Seccion lista ord 11 grabar sonido*/
+/*Seccion lista ord 11 grabar sonido
 
 #actividad .content  .cke_contents .bck-ol-11 li:before, 
 #actividad .content .grabarsonido .texto_curso ol.bck-ol-11 li:before, 
@@ -6889,7 +6925,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
     font-family: inherit;
     margin: -1px 0px 0px -1px;
     width: inherit;
-}
+}*/
 
 /*seccion marcarpalabras*/
 #actividad .content .marcarpalabras .texto_curso ul li::before, 
