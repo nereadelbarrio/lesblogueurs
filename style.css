@@ -3454,12 +3454,13 @@ font-size: 4.3rem;
     font-weight: bold;
     margin-bottom: 40px;
     text-align: left;
+    margin-top: 20px;
 }
 
 /*CAJA 14*/
 
 .bck-box.bck-box-14 {
-    width: 90%;
+    width: 70%;
     padding: 5px;
     margin-top: 10px;
     margin-bottom: 15px;
@@ -3471,12 +3472,13 @@ font-size: 4.3rem;
 .bck-box.bck-box-14>.bck-content {
 	border: 0px solid transparent;
 	font-size: 22px;
+	padding: 15px;
 }
 
 /*CAJA 15*/
 
 .bck-box.bck-box-15 {
-	width: 90%;
+	width: 70%;
     padding: 5px;
     margin-top: 10px;
     margin-bottom: 15px;
@@ -3489,6 +3491,7 @@ font-size: 4.3rem;
 
 .bck-box.bck-box-15>.bck-content {
 	border: 0px solid transparent;
+	padding: 15px;
 }
 
 /*CAJA 16*/
