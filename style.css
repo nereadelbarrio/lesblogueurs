@@ -2457,7 +2457,7 @@ counter-increment: bck-li-counter;
 #actividad .content .texto_curso .bck-ol-12 li:before,
 #actividad .popover-content .bck-ol-12 li:before,
 #actividad .content .workspace ul li .bck-ol-12 li:before {
-	content: counter(bck-li-counter, upper-alpha);
+content: counter(bck-li-counter, upper-alpha);
     font-family: Conv_Calibre;
     font-weight: 700;
     position: absolute;
@@ -2465,6 +2465,7 @@ counter-increment: bck-li-counter;
     background-color: #E7304A;
     font-size: 2.2rem;
     padding-left: 16px;
+    padding-top: 6px;
     width: 50px;
     height: 25px;
     margin-top: 0px;
@@ -5071,9 +5072,10 @@ table.bck-table-3 {
 
 table.bck-table-3 td {
 	border-color: transparent;
-    padding: 5px 5px 5px 0px;
-    font-size: 17px;
+    padding: 18px 10px 10px;
+    /*font-size: 17px;*/
     background-color: transparent;
+    color: inherit;
 }
 
 /*TABLA 4*/ 
@@ -5136,7 +5138,7 @@ table.bck-table-8 td {
 }
 
 table.bck-table-8 td.bck-td-7 {
-    border-color: #9E1981;
+    border-color: #fff;
 }
 
 /*TABLA 9*/ 
@@ -5195,7 +5197,7 @@ table td.bck-td-1 {
 	background-color: #D58001;
     font-family: Conv_Calibre;
     font-weight: bold;
-    color: #000;
+    color: #fff;
 }
 
 table.bck-table-1 td.bck-td-1 {
