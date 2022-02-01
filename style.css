@@ -971,16 +971,16 @@ font-size: 3.5rem;
 /*TITULO 9*/
 
 .bck-title-9 {
-	color: #fff;
+    color: #fff;
     background-color: #00AC9C;
     width: fit-content;
     font-size: 4rem;
-    padding: 30px 75px 15px 159px;
-    margin-left: -158px;
+    padding: 30px 75px 15px 97px;
+    margin-left: -96px;
     margin-top: 0;
     font-weight: 600;
     border-bottom: none;
-    box-shadow: none;
+    box-shadow: 0px 4px 7px -1px #a0a8aa;
 }
 
 
