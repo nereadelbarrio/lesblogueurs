@@ -498,24 +498,20 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*MENU LATERAL*/
 
-/*#list-units .unittag_gris_lesblogueurs.active:not(.disabled), 
-#list-units .unittag_gris_lesblogueurs:hover, 
+#list-units .unittag_marron_lesblogueurs.active:not(.disabled), 
+#list-units .unittag_marron_lesblogueurs:hover, 
 #list-units .unittag_rojo_lesblogueurs.active:not(.disabled), 
 #list-units .unittag_rojo_lesblogueurs:hover, 
 #list-units .unittag_morado_lesblogueurs.active:not(.disabled), 
 #list-units .unittag_morado_lesblogueurs:hover, 
-#list-units .unittag_azulclaro_lesblogueurs.active:not(.disabled), 
-#list-units .unittag_azulclaro_lesblogueurs:hover, 
+#list-units .unittag_oliva_lesblogueurs.active:not(.disabled), 
+#list-units .unittag_oliva_lesblogueurs:hover, 
 #list-units .unittag_verde_lesblogueurs2.active:not(.disabled), 
 #list-units .unittag_verde_lesblogueurs:hover, 
-#list-units .unittag_rosa_lesblogueurs.active:not(.disabled), 
-#list-units .unittag_rosa_lesblogueurs:hover, 
-#list-units .unittag_azuloscuro_lesblogueurs.active:not(.disabled), 
-#list-units .unittag_azuloscuro_lesblogueurs:hover, 
-#list-units .unittag_punteado_lesblogueurs.active:not(.disabled), 
-#list-units .unittag_punteado_lesblogueurs:hover, 
-#list-units .unittag_unidadcero_lesblogueurs.active:not(.disabled), 
-#list-units .unittag_unidadcero_lesblogueurs:hover,*/ 
+#list-units .unittag_naranja_lesblogueurs.active:not(.disabled), 
+#list-units .unittag_naranja_lesblogueurs:hover, 
+#list-units .unittag_azul_lesblogueurs.active:not(.disabled), 
+#list-units .unittag_azul_lesblogueurs:hover,  
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
 #indice .units ul li:focus:not(.disabled), 
 #indice .units ul li.active:not(.disabled) {
@@ -5329,135 +5325,63 @@ table td.bck-td-10 {
 
 /*TAGS ICONOS*/
 
-/*Leer*/
-
-.activitytag_mapas_iconoleer:before {
-	content: "";
-	background-image: url(images/icono_leer.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	padding: 20px;
-	background-position: center;
-}
-
-/*Escribir*/
-
-.activitytag_mapas_iconoescribir:before {
-	content: "";
-	background-image: url(images/icono_escribir.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	padding: 20px;
-	background-position: center;
-}
-
-/*Corregir por el profesor*/
-
-.activitytag_mapas_corregirprofesor:before {
-	content: "";
-	background-image: url(images/icono_corregir_profesor.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	padding: 20px;
-	background-position: center;
-}
-
-/*Grabar audio*/
-
-.activitytag_mapas_iconograbaraudio:before {
-	content: "";
-	background-image: url(images/icono_grabar_audio.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	padding: 20px;
-	background-position: center;
-}
-
-/*
-body:not(.edit) .modal.in .modal-dialog,
-body:not(.edit) .modal.fade .modal-dialog {
-    width: 350px;
-}
-.modal-dialog-center.audio-recording {
-	width: 350px;
-    margin: auto;
-}
-*/
-
-/*Video*/
-.activitytag_mapas_iconovideo:before {
-	content: "";
-	background-image: url(images/icono_video.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	padding: 20px;
-	background-position: center;
-}
-
-/*Audio*/
-
-.activitytag_mapas_iconoaudio:before {
-	content: "";
-	background-image: url(images/icono_audio.png);
-	background-repeat: no-repeat;
-	background-size: contain;
-	padding: 20px;
-	background-position: center;
-}
 
 /*TAGS
 
-/*--------------------------------------------------TAGS TOC---------------------------------------------
-#list-units .unittag_gris_lesblogueurs:hover,
+/*--------------------------------------------------TAGS TOC---------------------------------------------*/
 #list-units .unittag_rojo_lesblogueurs:hover,
-#list-units .unittag_azulclaro_lesblogueurs:hover,
+#list-units .unittag_marron_lesblogueurs:hover,
+#list-units .unittag_naranja_lesblogueurs:hover,
+#list-units .unittag_oliva_lesblogueurs:hover,
 #list-units .unittag_verde_lesblogueurs:hover,
-#list-units .unittag_azuloscuro_lesblogueurs:hover,
 #list-units .unittag_morado_lesblogueurs:hover,
-#list-units .unittag_rosa_lesblogueurs:hover,
-#list-units .unittag_gris_lesblogueurs.active:not(.disabled),
+#list-units .unittag_azul_lesblogueurs:hover,
 #list-units .unittag_rojo_lesblogueurs.active:not(.disabled),
-#list-units .unittag_azulclaro_lesblogueurs.active:not(.disabled),
+#list-units .unittag_marron_lesblogueurs.active:not(.disabled),
+#list-units .unittag_naranja_lesblogueurs.active:not(.disabled),
+#list-units .unittag_oliva_lesblogueurs.active:not(.disabled),
 #list-units .unittag_verde_lesblogueurs.active:not(.disabled),
-#list-units .unittag_azuloscuro_lesblogueurs.active:not(.disabled),
+#list-units .unittag_verde_lesblogueurs.active:not(.disabled),
 #list-units .unittag_morado_lesblogueurs.active:not(.disabled),
-#list-units .unittag_rosa_lesblogueurs.active:not(.disabled) {
+#list-units .unittag_azul_lesblogueurs.active:not(.disabled) {
 	background-color: #000000 !important;
 }
 
-/*Gris
-#list-units .unittag_gris_lesblogueurs {
-	background-color: #6f766f !important;
-}
 
-/*Rojo
+/*rojo*/
 #list-units .unittag_rojo_lesblogueurs {
-	background-color: #e30613 !important;
+	background-color: #EF3954 !important;
 }
 
-/*Azul claro
-#list-units .unittag_azulclaro_lesblogueurs {
-	background-color: #3D72B3 !important;
+/*marron*/
+#list-units .unittag_marron_lesblogueurs {
+	background-color: #716467 !important;
 }
 
-/*Verde
+/*naranja*/
+#list-units .unittag_naranja_lesblogueurs {
+	background-color: #F26D23 !important;
+}
+
+/*oliva*/
+#list-units .unittag_oliva_lesblogueurs {
+	background-color: #86A43E !important;
+}
+
+/*Verde*/
 #list-units .unittag_verde_lesblogueurs {
-	background-color: #197126 !important;
+	background-color: #4E5A65 !important;
 }
 
-/*Azul oscuro
-#list-units .unittag_azuloscuro_lesblogueurs {
-	background-color: #0e4090 !important;
-}
 
-/*Morado
+/*Morado*/
 #list-units .unittag_morado_lesblogueurs {
-	background-color: #79639b !important;
+	background-color: #7553A2 !important;
 }
 
-/*Rosa
-#list-units .unittag_rosa_lesblogueurs {
-	background-color: #de0067 !important;
+/*azul*/
+#list-units .unittag_azul_lesblogueurs {
+	background-color: #007DC4 !important;
 }
 
 /*unidad_cero
@@ -5482,467 +5406,271 @@ body:not(.edit) .modal.fade .modal-dialog {
 
 
 
-/*----------------UNITTAG GRIS------------------------
+/*----------------UNITTAG MARRON------------------------*/
 
-.unittag_gris_lesblogueurs .bck-tooltip {
+/*.unittag_marron_lesblogueurs .bck-tooltip {
     color: #D91F52;
-}
-
-.unittag_gris_lesblogueurs #actividad .content .header .title h3 {
-	color: #6F766F;
-}
-
-.unittag_gris_lesblogueurs #actividad .content .header .title {
-	background: #6F766F;
-}
-
-.unittag_gris_lesblogueurs .bck-title-1 {
-	color: #6F766F;
-}
-
-.unittag_gris_lesblogueurs .bck-title-3 {
-	background-color: #6F766F;
-}
-
-.unittag_gris_lesblogueurs .bck-title-5 {
-	color: #D91F52;
-}
-
-.unittag_gris_lesblogueurs .bck-title-7 {
-	background-color: #D91F52;
-}
-
-.unittag_gris_lesblogueurs .bck-title-8 {
-	background-color: #D91F52;
-}
-
-
-.unittag_gris_lesblogueurs .bck-enfasis-7 {	
-	color: #6F766F;
-}
-
-
-.unittag_gris_lesblogueurs .bck-enfasis-9 {	
-	background-color: #6F766F;
-}
-
-.unittag_gris_lesblogueurs .bck-enfasis-10 {	
-	color: #6F766F;
-}
-
-.unittag_gris_lesblogueurs .bck-enfasis-17 {
-	color: #D91F52;
-}
-
-
-.unittag_gris_lesblogueurs .bck-enfasis-22:before {
-	color: #D91F52;
-}
-
-
-.unittag_gris_lesblogueurs .bck-enfasis-23 {
-	background-color: #6F766F;
-}
-
-.unittag_gris_lesblogueurs .bck-enfasis-23:after {
-	border-right: 33px solid #505450;
-}
-
-/*
-.unittag_gris_lesblogueurs .bck-enfasis-25 {
-	border: 2px solid #D91F52;
-}
-
+}*/
 
-.unittag_gris_lesblogueurs .bck-enfasis-26 {
-    background-color: #D91F52;
+.unittag_marron_lesblogueurs #actividad .content .header .title h3 {
+	color: #716467;
 }
 
-.unittag_gris_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_gris_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_gris_lesblogueurs #actividad .content .texto_curso .bck-ol-5 li, 
-.unittag_gris_lesblogueurs #actividad .popover-content .bck-ol-5 li, 
-.unittag_gris_lesblogueurs #actividad .content .workspace ul li .bck-ol-5 li {
-   color: #D91F52;
+.unittag_marron_lesblogueurs #actividad .content .header .title {
+	background: #716467;
 }
 
-.unittag_gris_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li:before, 
-.unittag_gris_lesblogueurs #actividad .content .texto_curso .bck-ol-5 li:before, 
-.unittag_gris_lesblogueurs #actividad .popover-content .bck-ol-5 li:before, 
-.unittag_gris_lesblogueurs #actividad .content .workspace ul li .bck-ol-5 li:before {
-	background-color: #D91F52;
-}
-
-
-.unittag_gris_lesblogueurs #actividad .content .cke_contents .bck-ol-6 li:before, 
-.unittag_gris_lesblogueurs #actividad .content .texto_curso .bck-ol-6 li:before, 
-.unittag_gris_lesblogueurs #actividad .popover-content .bck-ol-6 li:before, 
-.unittag_gris_lesblogueurs #actividad .content .workspace ul li .bck-ol-6 li:before {
-  	color: #D91F52;
- 	border: 2px solid #D91F52;
-}
-
-.unittag_gris_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li, 
-.unittag_gris_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li, 
-.unittag_gris_lesblogueurs #actividad .content .texto_curso .bck-ol-7 li, 
-.unittag_gris_lesblogueurs #actividad .popover-content .bck-ol-7 li, 
-.unittag_gris_lesblogueurs #actividad .content .workspace ul li .bck-ol-7 li {
-   color: #6F766F;
-}
-
-.unittag_gris_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li:before, 
-.unittag_gris_lesblogueurs #actividad .content .texto_curso .bck-ol-7 li:before, 
-.unittag_gris_lesblogueurs #actividad .popover-content .bck-ol-7 li:before, 
-.unittag_gris_lesblogueurs #actividad .content .workspace ul li .bck-ol-7 li:before {
-	background-color: #6F766F;
-}
-
 
-.unittag_gris_lesblogueurs #actividad .content .cke_contents .bck-ol-8 li:before, 
-.unittag_gris_lesblogueurs #actividad .content .texto_curso .bck-ol-8 li:before, 
-.unittag_gris_lesblogueurs #actividad .popover-content .bck-ol-8 li:before, 
-.unittag_gris_lesblogueurs #actividad .content .workspace ul li .bck-ol-8 li:before {
-	color: #6F766F;
+.unittag_marron_lesblogueurs .bck-title-3 {
+	background-color: #716467;
 }
 
-.unittag_gris_lesblogueurs #actividad .content .cke_contents .bck-ol-18 li:before, 
-.unittag_gris_lesblogueurs #actividad .content .texto_curso ol.bck-ol-18 li:before, 
-.unittag_gris_lesblogueurs #actividad .popover-content ol.bck-ol-18 li:before, 
-.unittag_gris_lesblogueurs #actividad .content .workspace ul li ol.bck-ol-18 li:before {
-	background-color: #D91F52;
+.unittag_marron_lesblogueurs .bck-title-4 {
+	border-bottom: 4px solid #716467;
+    color: #716467;
 }
 
-
-
-.unittag_gris_lesblogueurs #actividad .content .cke_contents .bck-ul-5 li:before, 
-.unittag_gris_lesblogueurs #actividad .content .texto_curso ul.bck-ul-5 li:before, 
-.unittag_gris_lesblogueurs #actividad .popover-content ul.bck-ul-5 li:before, 
-.unittag_gris_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-5 li:before {
-    color: #D91F52;
-}
-
-.unittag_gris_lesblogueurs #actividad .content .cke_contents .bck-ul-6 li:before, 
-.unittag_gris_lesblogueurs #actividad .content .texto_curso ul.bck-ul-6 li:before, 
-.unittag_gris_lesblogueurs #actividad .popover-content ul.bck-ul-6 li:before, 
-.unittag_gris_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-6 li:before {
-   color: #D91F52;
+.unittag_marron_lesblogueurs .bck-title-5 {
+	color: #716467;
 }
 
-
-.unittag_gris_lesblogueurs .bck-box.bck-box-1 {
-	background: #6F766F;
+.unittag_marron_lesblogueurs .bck-enfasis-2 {	
+	background-color: #716467;
 }
 
-.unittag_gris_lesblogueurs .bck-box-1>.bck-title {
-	background-color: #6F766F;
+.unittag_marron_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li:before, 
+.unittag_marron_lesblogueurs #actividad .content .texto_curso .bck-ol-5 li:before, 
+.unittag_marron_lesblogueurs #actividad .popover-content .bck-ol-5 li:before, 
+.unittag_marron_lesblogueurs #actividad .content .workspace ul li .bck-ol-5 li:before {
+	background-color: #716467;
 }
 
-.unittag_gris_lesblogueurs .bck-box.bck-box-1>.bck-content {
-	background-color: #6F766F;
-}
 
-.unittag_gris_lesblogueurs .bck-box.bck-box-2 {
-	border: 2px dotted #6F766F;
-	background: #e6e7e6;
+.unittag_marron_lesblogueurs #actividad .content .cke_contents .bck-ol-6 li:before, 
+.unittag_marron_lesblogueurs #actividad .content .texto_curso .bck-ol-6 li:before, 
+.unittag_marron_lesblogueurs #actividad .popover-content .bck-ol-6 li:before, 
+.unittag_marron_lesblogueurs #actividad .content .workspace ul li .bck-ol-6 li:before {
+	background-color: #716467;
 }
 
-.unittag_gris_lesblogueurs .bck-box.bck-box-2>.bck-title {
-	background: #e6e7e6;
+.unittag_marron_lesblogueurs #actividad .content .cke_contents .bck-ol-12 li:before, 
+.unittag_marron_lesblogueurs #actividad .content .texto_curso ol.bck-ol-12 li:before, 
+.unittag_marron_lesblogueurs #actividad .popover-content ol.bck-ol-12 li:before, 
+.unittag_marron_lesblogueurs #actividad .content .workspace ul li ol.bck-ol-12 li:before {
+	background-color: #716467;
 }
 
-.unittag_gris_lesblogueurs .bck-box.bck-box-2>.bck-content {
-    background: #e6e7e6;
+.unittag_marron_lesblogueurs #actividad .content .cke_contents .bck-ul-8 li:before, 
+.unittag_marron_lesblogueurs #actividad .content .texto_curso ul.bck-ul-8 li:before, 
+.unittag_marron_lesblogueurs #actividad .popover-content ul.bck-ul-8 li:before, 
+.unittag_marron_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-8 li:before {
+    background-color: #716467;
 }
 
-.unittag_gris_lesblogueurs .bck-box.bck-box-20>.bck-content {
-	border: 3px solid #6F766F;
+.unittag_marron_lesblogueurs #actividad .content .cke_contents .bck-ul-9 li:before, 
+.unittag_marron_lesblogueurs #actividad .content .texto_curso ul.bck-ul-9 li:before, 
+.unittag_marron_lesblogueurs #actividad .popover-content ul.bck-ul-9 li:before, 
+.unittag_marron_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-9 li:before {
+   background-color: #716467;
 }
 
-.unittag_gris_lesblogueurs .bck-box.bck-box-22 {
-	background-color: #cdcfcd;
+.unittag_marron_lesblogueurs .bck-box-18>.bck-title {
+	background-color: #716467;
 }
 
-
-.unittag_gris_lesblogueurs .bck-box.bck-box-24>.bck-title {
-	background: #6F766F;
+.unittag_marron_lesblogueurs .bck-box.bck-box-18>.bck-content {
+	border: 2px solid #716467;
 }
-
-
-/*----------------UNITTAG AZUL CLARO------------------------
 
-.unittag_azulclaro_lesblogueurs .bck-tooltip {
-    color: #C94280;
+.unittag_marron_lesblogueurs .bck-box.bck-box-15 {
+	background: #716467;
 }
 
-.unittag_azulclaro_lesblogueurs #actividad .content .header .title h3 {
-	color: #3D72B3;
-}
 
-.unittag_azulclaro_lesblogueurs #actividad .content .header .title {
-	background: #3D72B3;
-}
+/*----------------UNITTAG NARANJA------------------------*/
 
-.unittag_azulclaro_lesblogueurs .bck-title-1 {
-	color: #3D72B3;
+.unittag_naranja_lesblogueurs #actividad .content .header .title h3 {
+	color: #F26D23;
 }
 
-.unittag_azulclaro_lesblogueurs .bck-title-3 {
-	background-color: #3D72B3;
+.unittag_naranja_lesblogueurs #actividad .content .header .title {
+	background: #F26D23;
 }
 
-.unittag_azulclaro_lesblogueurs .bck-title-5 {
-	color: #C94280;
-}
 
-.unittag_azulclaro_lesblogueurs .bck-title-7 {
-	background-color: #C94280;
+.unittag_naranja_lesblogueurs .bck-title-3 {
+	background-color: #F26D23;
 }
 
-.unittag_azulclaro_lesblogueurs .bck-title-8 {
-	background-color: #C94280;
+.unittag_naranja_lesblogueurs .bck-title-4 {
+	border-bottom: 4px solid #F26D23;
+    color: #F26D23;
 }
-
 
-.unittag_azulclaro_lesblogueurs .bck-enfasis-7 {	
-	color: #3D72B3;
+.unittag_naranja_lesblogueurs .bck-title-5 {
+	color: #F26D23;
 }
 
-
-.unittag_azulclaro_lesblogueurs .bck-enfasis-9 {	
-	background-color: #3D72B3;
+.unittag_naranja_lesblogueurs .bck-enfasis-2 {	
+	background-color: #F26D23;
 }
 
-.unittag_azulclaro_lesblogueurs .bck-enfasis-10 {	
-	color: #3D72B3;
+.unittag_naranja_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li:before, 
+.unittag_naranja_lesblogueurs #actividad .content .texto_curso .bck-ol-5 li:before, 
+.unittag_naranja_lesblogueurs #actividad .popover-content .bck-ol-5 li:before, 
+.unittag_naranja_lesblogueurs #actividad .content .workspace ul li .bck-ol-5 li:before {
+	background-color: #F26D23;
 }
 
-.unittag_azulclaro_lesblogueurs .bck-enfasis-17 {
-	color: #C94280;
-}
 
-.unittag_azulclaro_lesblogueurs .bck-enfasis-22:before {
-	color: #C94280;
+.unittag_naranja_lesblogueurs #actividad .content .cke_contents .bck-ol-6 li:before, 
+.unittag_naranja_lesblogueurs #actividad .content .texto_curso .bck-ol-6 li:before, 
+.unittag_naranja_lesblogueurs #actividad .popover-content .bck-ol-6 li:before, 
+.unittag_naranja_lesblogueurs #actividad .content .workspace ul li .bck-ol-6 li:before {
+	background-color: #F26D23;
 }
 
-
-.unittag_azulclaro_lesblogueurs .bck-enfasis-23 {
-	background-color: #3D72B3;
+.unittag_naranja_lesblogueurs #actividad .content .cke_contents .bck-ol-12 li:before, 
+.unittag_naranja_lesblogueurs #actividad .content .texto_curso ol.bck-ol-12 li:before, 
+.unittag_naranja_lesblogueurs #actividad .popover-content ol.bck-ol-12 li:before, 
+.unittag_naranja_lesblogueurs #actividad .content .workspace ul li ol.bck-ol-12 li:before {
+	background-color: #F26D23;
 }
 
-.unittag_azulclaro_lesblogueurs .bck-enfasis-23:after {
-	border-right: 33px solid #1c4981;
+.unittag_naranja_lesblogueurs #actividad .content .cke_contents .bck-ul-8 li:before, 
+.unittag_naranja_lesblogueurs #actividad .content .texto_curso ul.bck-ul-8 li:before, 
+.unittag_naranja_lesblogueurs #actividad .popover-content ul.bck-ul-8 li:before, 
+.unittag_naranja_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-8 li:before {
+    background-color: #F26D23;
 }
 
-/*
-
-.unittag_azulclaro_lesblogueurs .bck-enfasis-25 {
-	border: 2px solid #C94280;
+.unittag_naranja_lesblogueurs #actividad .content .cke_contents .bck-ul-9 li:before, 
+.unittag_naranja_lesblogueurs #actividad .content .texto_curso ul.bck-ul-9 li:before, 
+.unittag_naranja_lesblogueurs #actividad .popover-content ul.bck-ul-9 li:before, 
+.unittag_naranja_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-9 li:before {
+   background-color: #F26D23;
 }
-
 
-.unittag_azulclaro_lesblogueurs .bck-enfasis-26 {
-    background-color: #C94280;
+.unittag_naranja_lesblogueurs .bck-box-18>.bck-title {
+	background-color: #F26D23;
 }
 
-.unittag_azulclaro_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_azulclaro_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_azulclaro_lesblogueurs #actividad .content .texto_curso .bck-ol-5 li, 
-.unittag_azulclaro_lesblogueurs #actividad .popover-content .bck-ol-5 li, 
-.unittag_azulclaro_lesblogueurs #actividad .content .workspace ul li .bck-ol-5 li {
-   color: #C94280;
+.unittag_naranja_lesblogueurs .bck-box.bck-box-18>.bck-content {
+	border: 2px solid #F26D23;
 }
-
-.unittag_azulclaro_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .content .texto_curso .bck-ol-5 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .popover-content .bck-ol-5 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .content .workspace ul li .bck-ol-5 li:before {
-	background-color: #C94280;
+.unittag_naranja_lesblogueurs .bck-box.bck-box-15 {
+	background: #F26D23;
 }
-
 
-.unittag_azulclaro_lesblogueurs #actividad .content .cke_contents .bck-ol-6 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .content .texto_curso .bck-ol-6 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .popover-content .bck-ol-6 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .content .workspace ul li .bck-ol-6 li:before {
-  	color: #C94280;
- 	border: 2px solid #C94280;
-}
+/*----------------UNITTAG OLIVA------------------------*/
 
-.unittag_azulclaro_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li, 
-.unittag_azulclaro_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li, 
-.unittag_azulclaro_lesblogueurs #actividad .content .texto_curso .bck-ol-7 li, 
-.unittag_azulclaro_lesblogueurs #actividad .popover-content .bck-ol-7 li, 
-.unittag_azulclaro_lesblogueurs #actividad .content .workspace ul li .bck-ol-7 li {
-   color: #3D72B3;
+.unittag_oliva_lesblogueurs #actividad .content .header .title h3 {
+	color: #86A43E;
 }
 
-.unittag_azulclaro_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .content .texto_curso .bck-ol-7 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .popover-content .bck-ol-7 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .content .workspace ul li .bck-ol-7 li:before {
-	background-color: #3D72B3;
+.unittag_oliva_lesblogueurs #actividad .content .header .title {
+	background: #86A43E;
 }
 
 
-
-.unittag_azulclaro_lesblogueurs #actividad .content .cke_contents .bck-ol-8 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .content .texto_curso .bck-ol-8 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .popover-content .bck-ol-8 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .content .workspace ul li .bck-ol-8 li:before {
-	color: #3D72B3;
+.unittag_oliva_lesblogueurs .bck-title-3 {
+	background-color: #86A43E;
 }
 
-.unittag_azulclaro_lesblogueurs #actividad .content .cke_contents .bck-ol-18 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .content .texto_curso ol.bck-ol-18 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .popover-content ol.bck-ol-18 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .content .workspace ul li ol.bck-ol-18 li:before {
-	background-color: #C94280;
+.unittag_oliva_lesblogueurs .bck-title-4 {
+	border-bottom: 4px solid #86A43E;
+    color: #86A43E;
 }
-
 
-.unittag_azulclaro_lesblogueurs #actividad .content .cke_contents .bck-ul-5 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .content .texto_curso ul.bck-ul-5 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .popover-content ul.bck-ul-5 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-5 li:before {
-    color: #C94280;
+.unittag_oliva_lesblogueurs .bck-title-5 {
+	color: #86A43E;
 }
 
-.unittag_azulclaro_lesblogueurs #actividad .content .cke_contents .bck-ul-6 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .content .texto_curso ul.bck-ul-6 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .popover-content ul.bck-ul-6 li:before, 
-.unittag_azulclaro_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-6 li:before {
-   color: #C94280;
+.unittag_oliva_lesblogueurs .bck-enfasis-2 {	
+	background-color: #86A43E;
 }
 
-
-.unittag_azulclaro_lesblogueurs .bck-box.bck-box-1 {
-	background: #3D72B3;
+.unittag_oliva_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li:before, 
+.unittag_oliva_lesblogueurs #actividad .content .texto_curso .bck-ol-5 li:before, 
+.unittag_oliva_lesblogueurs #actividad .popover-content .bck-ol-5 li:before, 
+.unittag_oliva_lesblogueurs #actividad .content .workspace ul li .bck-ol-5 li:before {
+	background-color: #86A43E;
 }
 
-.unittag_azulclaro_lesblogueurs .bck-box-1>.bck-title {
-	background-color: #3D72B3;
-}
 
-.unittag_azulclaro_lesblogueurs .bck-box.bck-box-1>.bck-content {
-	background-color: #3D72B3;
+.unittag_oliva_lesblogueurs #actividad .content .cke_contents .bck-ol-6 li:before, 
+.unittag_oliva_lesblogueurs #actividad .content .texto_curso .bck-ol-6 li:before, 
+.unittag_oliva_lesblogueurs #actividad .popover-content .bck-ol-6 li:before, 
+.unittag_oliva_lesblogueurs #actividad .content .workspace ul li .bck-ol-6 li:before {
+	background-color: #86A43E;
 }
 
-.unittag_azulclaro_lesblogueurs .bck-box.bck-box-2 {
-	border: 2px dotted #3D72B3;
-	background: #e1e6f2;
+.unittag_oliva_lesblogueurs #actividad .content .cke_contents .bck-ol-12 li:before, 
+.unittag_oliva_lesblogueurs #actividad .content .texto_curso ol.bck-ol-12 li:before, 
+.unittag_oliva_lesblogueurs #actividad .popover-content ol.bck-ol-12 li:before, 
+.unittag_oliva_lesblogueurs #actividad .content .workspace ul li ol.bck-ol-12 li:before {
+	background-color: #86A43E;
 }
 
-.unittag_azulclaro_lesblogueurs .bck-box.bck-box-2>.bck-title {
-	background: #e1e6f2;
+.unittag_oliva_lesblogueurs #actividad .content .cke_contents .bck-ul-8 li:before, 
+.unittag_oliva_lesblogueurs #actividad .content .texto_curso ul.bck-ul-8 li:before, 
+.unittag_oliva_lesblogueurs #actividad .popover-content ul.bck-ul-8 li:before, 
+.unittag_oliva_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-8 li:before {
+    background-color: #86A43E;
 }
 
-.unittag_azulclaro_lesblogueurs .bck-box.bck-box-2>.bck-content {
-    background: #e1e6f2;
+.unittag_oliva_lesblogueurs #actividad .content .cke_contents .bck-ul-9 li:before, 
+.unittag_oliva_lesblogueurs #actividad .content .texto_curso ul.bck-ul-9 li:before, 
+.unittag_oliva_lesblogueurs #actividad .popover-content ul.bck-ul-9 li:before, 
+.unittag_oliva_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-9 li:before {
+   background-color: #86A43E;
 }
 
-.unittag_azulclaro_lesblogueurs .bck-box.bck-box-20>.bck-content {
-	border: 3px solid #3D72B3;
+.unittag_oliva_lesblogueurs .bck-box-18>.bck-title {
+	background-color: #86A43E;
 }
 
-.unittag_azulclaro_lesblogueurs .bck-box.bck-box-22 {
-	background-color: #c3cde6;
+.unittag_oliva_lesblogueurs .bck-box.bck-box-18>.bck-content {
+	border: 2px solid #86A43E;
 }
 
-
-.unittag_azulclaro_lesblogueurs .bck-box.bck-box-24>.bck-title {
-	background: #3D72B3;
+.unittag_oliva_lesblogueurs .bck-box.bck-box-15 {
+	background: #86A43E;
 }
 
-/*----------------UNITTAG VERDE------------------------
-
-.unittag_verde_lesblogueurs .bck-tooltip {
-    color: #006DA8;
-}
+/*----------------UNITTAG VERDE------------------------*/
 
 .unittag_verde_lesblogueurs #actividad .content .header .title h3 {
-	color: #197126;
+	color: #00AA4E;
 }
 
 .unittag_verde_lesblogueurs #actividad .content .header .title {
-	background: #197126;
+	background: #00AA4E;
 }
 
-.unittag_verde_lesblogueurs .bck-title-1 {
-	color: #197126;
-}
 
 .unittag_verde_lesblogueurs .bck-title-3 {
-	background-color: #197126;
+	background-color: #00AA4E;
+}
+
+.unittag_verde_lesblogueurs .bck-title-4 {
+	border-bottom: 4px solid #00AA4E;
+    color: #00AA4E;
 }
 
 .unittag_verde_lesblogueurs .bck-title-5 {
-	color: #006DA8;
+	color: #00AA4E;
 }
 
-.unittag_verde_lesblogueurs .bck-title-7 {
-	background-color: #006DA8;
-}
-
-.unittag_verde_lesblogueurs .bck-title-8 {
-	background-color: #006DA8;
-}
-
-
-.unittag_verde_lesblogueurs .bck-enfasis-7 {	
-	color: #197126;
-}
-
-
-.unittag_verde_lesblogueurs .bck-enfasis-9 {	
-	background-color: #197126;
-}
-
-.unittag_verde_lesblogueurs .bck-enfasis-10 {	
-	color: #197126;
-}
-
-.unittag_verde_lesblogueurs .bck-enfasis-17 {
-	color: #006DA8;
-}
-
-
-.unittag_verde_lesblogueurs .bck-enfasis-22:before {
-	color: #006DA8;
-}
-
-
-.unittag_verde_lesblogueurs .bck-enfasis-23 {
-	background-color: #197126;
-}
-
-.unittag_verde_lesblogueurs .bck-enfasis-23:after {
-	border-right: 33px solid #11521a;
-}
-
-/*
-
-.unittag_verde_lesblogueurs .bck-enfasis-25 {
-	border: 2px solid #006DA8;
-}
-
-
-.unittag_verde_lesblogueurs .bck-enfasis-26 {
-    background-color: #006DA8;
-}
-
-.unittag_verde_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_verde_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_verde_lesblogueurs #actividad .content .texto_curso .bck-ol-5 li, 
-.unittag_verde_lesblogueurs #actividad .popover-content .bck-ol-5 li, 
-.unittag_verde_lesblogueurs #actividad .content .workspace ul li .bck-ol-5 li {
-   color: #006DA8;
+.unittag_verde_lesblogueurs .bck-enfasis-2 {	
+	background-color: #00AA4E;
 }
 
 .unittag_verde_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li:before, 
 .unittag_verde_lesblogueurs #actividad .content .texto_curso .bck-ol-5 li:before, 
 .unittag_verde_lesblogueurs #actividad .popover-content .bck-ol-5 li:before, 
 .unittag_verde_lesblogueurs #actividad .content .workspace ul li .bck-ol-5 li:before {
-	background-color: #006DA8;
+	background-color: #00AA4E;
 }
 
 
@@ -5950,376 +5678,75 @@ body:not(.edit) .modal.fade .modal-dialog {
 .unittag_verde_lesblogueurs #actividad .content .texto_curso .bck-ol-6 li:before, 
 .unittag_verde_lesblogueurs #actividad .popover-content .bck-ol-6 li:before, 
 .unittag_verde_lesblogueurs #actividad .content .workspace ul li .bck-ol-6 li:before {
-  	color: #006DA8;
- 	border: 2px solid #006DA8;
+	background-color: #00AA4E;
 }
 
-.unittag_verde_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li, 
-.unittag_verde_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li, 
-.unittag_verde_lesblogueurs #actividad .content .texto_curso .bck-ol-7 li, 
-.unittag_verde_lesblogueurs #actividad .popover-content .bck-ol-7 li, 
-.unittag_verde_lesblogueurs #actividad .content .workspace ul li .bck-ol-7 li {
-   color: #197126;
+.unittag_verde_lesblogueurs #actividad .content .cke_contents .bck-ol-12 li:before, 
+.unittag_verde_lesblogueurs #actividad .content .texto_curso ol.bck-ol-12 li:before, 
+.unittag_verde_lesblogueurs #actividad .popover-content ol.bck-ol-12 li:before, 
+.unittag_verde_lesblogueurs #actividad .content .workspace ul li ol.bck-ol-12 li:before {
+	background-color: #00AA4E;
 }
 
-.unittag_verde_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li:before, 
-.unittag_verde_lesblogueurs #actividad .content .texto_curso .bck-ol-7 li:before, 
-.unittag_verde_lesblogueurs #actividad .popover-content .bck-ol-7 li:before, 
-.unittag_verde_lesblogueurs #actividad .content .workspace ul li .bck-ol-7 li:before {
-	background-color: #197126;
+.unittag_verde_lesblogueurs #actividad .content .cke_contents .bck-ul-8 li:before, 
+.unittag_verde_lesblogueurs #actividad .content .texto_curso ul.bck-ul-8 li:before, 
+.unittag_verde_lesblogueurs #actividad .popover-content ul.bck-ul-8 li:before, 
+.unittag_verde_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-8 li:before {
+    background-color: #00AA4E;
 }
 
-
-.unittag_verde_lesblogueurs #actividad .content .cke_contents .bck-ol-8 li:before, 
-.unittag_verde_lesblogueurs #actividad .content .texto_curso .bck-ol-8 li:before, 
-.unittag_verde_lesblogueurs #actividad .popover-content .bck-ol-8 li:before, 
-.unittag_verde_lesblogueurs #actividad .content .workspace ul li .bck-ol-8 li:before {
-	color: #197126;
+.unittag_verde_lesblogueurs #actividad .content .cke_contents .bck-ul-9 li:before, 
+.unittag_verde_lesblogueurs #actividad .content .texto_curso ul.bck-ul-9 li:before, 
+.unittag_verde_lesblogueurs #actividad .popover-content ul.bck-ul-9 li:before, 
+.unittag_verde_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-9 li:before {
+   background-color: #00AA4E;
 }
 
-.unittag_verde_lesblogueurs #actividad .content .cke_contents .bck-ol-18 li:before, 
-.unittag_verde_lesblogueurs #actividad .content .texto_curso ol.bck-ol-18 li:before, 
-.unittag_verde_lesblogueurs #actividad .popover-content ol.bck-ol-18 li:before, 
-.unittag_verde_lesblogueurs #actividad .content .workspace ul li ol.bck-ol-18 li:before {
-	background-color: #006DA8;
+.unittag_verde_lesblogueurs .bck-box-18>.bck-title {
+	background-color: #00AA4E;
 }
 
-
-
-.unittag_verde_lesblogueurs #actividad .content .cke_contents .bck-ul-5 li:before, 
-.unittag_verde_lesblogueurs #actividad .content .texto_curso ul.bck-ul-5 li:before, 
-.unittag_verde_lesblogueurs #actividad .popover-content ul.bck-ul-5 li:before, 
-.unittag_verde_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-5 li:before {
-    color: #006DA8;
+.unittag_verde_lesblogueurs .bck-box.bck-box-18>.bck-content {
+	border: 2px solid #00AA4E;
 }
 
-.unittag_verde_lesblogueurs #actividad .content .cke_contents .bck-ul-6 li:before, 
-.unittag_verde_lesblogueurs #actividad .content .texto_curso ul.bck-ul-6 li:before, 
-.unittag_verde_lesblogueurs #actividad .popover-content ul.bck-ul-6 li:before, 
-.unittag_verde_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-6 li:before {
-   color: #006DA8;
+.unittag_verde_lesblogueurs .bck-box.bck-box-15 {
+	background: #00AA4E;
 }
 
-
-.unittag_verde_lesblogueurs .bck-box.bck-box-1 {
-	background: #197126;
-}
-
-.unittag_verde_lesblogueurs .bck-box-1>.bck-title {
-	background-color: #197126;
-}
-
-.unittag_verde_lesblogueurs .bck-box.bck-box-1>.bck-content {
-	background-color: #197126;
-}
-
-.unittag_verde_lesblogueurs .bck-box.bck-box-2 {
-	border: 2px dotted #197126;
-	background: #dae7d8;
-}
-
-.unittag_verde_lesblogueurs .bck-box.bck-box-2>.bck-title {
-	background: #dae7d8;
-}
-
-.unittag_verde_lesblogueurs .bck-box.bck-box-2>.bck-content {
-    background: #dae7d8;
-}
-
-.unittag_verde_lesblogueurs .bck-box.bck-box-20>.bck-content {
-	border: 3px solid #197126;
-}
-
-.unittag_verde_lesblogueurs .bck-box.bck-box-22 {
-	background-color: #b5cfb2;
-}
-
-
-.unittag_verde_lesblogueurs .bck-box.bck-box-24>.bck-title {
-	background: #197126;
-}
-
-
-
-/*----------------UNITTAG AZUL OSCURO------------------------
-
-.unittag_azuloscuro_lesblogueurs .bck-tooltip {
-    color: #767B24;
-}
-
-
-.unittag_azuloscuro_lesblogueurs #actividad .content .header .title h3 {
-	color: #0e4090;
-}
-
-.unittag_azuloscuro_lesblogueurs #actividad .content .header .title {
-	background: #0e4090;
-}
-
-.unittag_azuloscuro_lesblogueurs .bck-title-1 {
-	color: #0e4090;
-}
-
-.unittag_azuloscuro_lesblogueurs .bck-title-3 {
-	background-color: #0e4090;
-}
-
-.unittag_azuloscuro_lesblogueurs .bck-title-5 {
-	color: #767B24;
-}
-
-.unittag_azuloscuro_lesblogueurs .bck-title-7 {
-	background-color: #767B24;
-}
-
-.unittag_azuloscuro_lesblogueurs .bck-title-8 {
-	background-color: #767B24;
-}
-
-
-.unittag_azuloscuro_lesblogueurs .bck-enfasis-7 {	
-	color: #0e4090;
-}
-
-
-.unittag_azuloscuro_lesblogueurs .bck-enfasis-9 {	
-	background-color: #0e4090;
-}
-
-.unittag_azuloscuro_lesblogueurs .bck-enfasis-10 {	
-	color: #0e4090;
-}
-
-.unittag_azuloscuro_lesblogueurs .bck-enfasis-17 {
-	color: #767B24;
-}
-
-
-.unittag_azuloscuro_lesblogueurs .bck-enfasis-22:before {
-	color: #767B24;
-}
-
-
-.unittag_azuloscuro_lesblogueurs .bck-enfasis-23 {
-	background-color: #0e4090;
-}
-
-.unittag_azuloscuro_lesblogueurs .bck-enfasis-23:after {
-	border-right: 33px solid #082c64;
-}
-
-
-/*
-.unittag_azuloscuro_lesblogueurs .bck-enfasis-25 {
-	border: 2px solid #767B24;
-}
-
-
-.unittag_azuloscuro_lesblogueurs .bck-enfasis-26 {
-    background-color: #767B24;
-}
-
-.unittag_azuloscuro_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .texto_curso .bck-ol-5 li, 
-.unittag_azuloscuro_lesblogueurs #actividad .popover-content .bck-ol-5 li, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .workspace ul li .bck-ol-5 li {
-   color: #767B24;
-}
-
-.unittag_azuloscuro_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .texto_curso .bck-ol-5 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .popover-content .bck-ol-5 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .workspace ul li .bck-ol-5 li:before {
-	background-color: #767B24;
-}
-
-
-.unittag_azuloscuro_lesblogueurs #actividad .content .cke_contents .bck-ol-6 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .texto_curso .bck-ol-6 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .popover-content .bck-ol-6 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .workspace ul li .bck-ol-6 li:before {
-  	color: #767B24;
- 	border: 2px solid #767B24;
-}
-
-.unittag_azuloscuro_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .texto_curso .bck-ol-7 li, 
-.unittag_azuloscuro_lesblogueurs #actividad .popover-content .bck-ol-7 li, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .workspace ul li .bck-ol-7 li {
-   color: #0e4090;
-}
-
-.unittag_azuloscuro_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .texto_curso .bck-ol-7 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .popover-content .bck-ol-7 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .workspace ul li .bck-ol-7 li:before {
-	background-color: #0e4090;
-}
-
-
-.unittag_azuloscuro_lesblogueurs #actividad .content .cke_contents .bck-ol-8 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .texto_curso .bck-ol-8 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .popover-content .bck-ol-8 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .workspace ul li .bck-ol-8 li:before {
-	color: #0e4090;
-}
-
-.unittag_azuloscuro_lesblogueurs #actividad .content .cke_contents .bck-ol-18 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .texto_curso ol.bck-ol-18 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .popover-content ol.bck-ol-18 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .workspace ul li ol.bck-ol-18 li:before {
-	background-color: #767B24;
-}
-
-
-
-.unittag_azuloscuro_lesblogueurs #actividad .content .cke_contents .bck-ul-5 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .texto_curso ul.bck-ul-5 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .popover-content ul.bck-ul-5 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-5 li:before {
-    color: #767B24;
-}
-
-.unittag_azuloscuro_lesblogueurs #actividad .content .cke_contents .bck-ul-6 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .texto_curso ul.bck-ul-6 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .popover-content ul.bck-ul-6 li:before, 
-.unittag_azuloscuro_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-6 li:before {
-   color: #767B24;
-}
-
-
-.unittag_azuloscuro_lesblogueurs .bck-box.bck-box-1 {
-	background: #0e4090;
-}
-
-.unittag_azuloscuro_lesblogueurs .bck-box-1>.bck-title {
-	background-color: #0e4090;
-}
-
-.unittag_azuloscuro_lesblogueurs .bck-box.bck-box-1>.bck-content {
-	background-color: #0e4090;
-}
-
-.unittag_azuloscuro_lesblogueurs .bck-box.bck-box-2 {
-	border: 2px dotted #0e4090;
-	background: #dbdcec;
-}
-
-.unittag_azuloscuro_lesblogueurs .bck-box.bck-box-2>.bck-title {
-	background: #dbdcec;
-}
-
-.unittag_azuloscuro_lesblogueurs .bck-box.bck-box-2>.bck-content {
-    background: #dbdcec;
-}
-
-.unittag_azuloscuro_lesblogueurs .bck-box.bck-box-20>.bck-content {
-	border: 3px solid #0e4090;
-}
-
-.unittag_azuloscuro_lesblogueurs .bck-box.bck-box-22 {
-	background-color: #b8bada;
-}
-
-
-.unittag_azuloscuro_lesblogueurs .bck-box.bck-box-24>.bck-title {
-	background: #0e4090;
-}
-
-
-
-/*----------------UNITTAG MORADO------------------------
-
-.unittag_morado_lesblogueurs .bck-tooltip {
-    color: #197126;
-}
+/*----------------UNITTAG MORADO------------------------*/
 
 .unittag_morado_lesblogueurs #actividad .content .header .title h3 {
-	color: #79639b;
+	color: #7553A2;
 }
 
 .unittag_morado_lesblogueurs #actividad .content .header .title {
-	background: #79639b;
+	background: #7553A2;
 }
 
-.unittag_morado_lesblogueurs .bck-title-1 {
-	color: #79639b;
-}
 
 .unittag_morado_lesblogueurs .bck-title-3 {
-	background-color: #79639b;
+	background-color: #7553A2;
+}
+
+.unittag_morado_lesblogueurs .bck-title-4 {
+	border-bottom: 4px solid #7553A2;
+    color: #7553A2;
 }
 
 .unittag_morado_lesblogueurs .bck-title-5 {
-	color: #197126;
+	color: #7553A2;
 }
 
-.unittag_morado_lesblogueurs .bck-title-7 {
-	background-color: #197126;
-}
-
-.unittag_morado_lesblogueurs .bck-title-8 {
-	background-color: #197126;
-}
-
-
-.unittag_morado_lesblogueurs .bck-enfasis-7 {	
-	color: #79639b;
-}
-
-
-.unittag_morado_lesblogueurs .bck-enfasis-9 {	
-	background-color: #79639b;
-}
-
-.unittag_morado_lesblogueurs .bck-enfasis-10 {	
-	color: #79639b;
-}
-
-.unittag_morado_lesblogueurs .bck-enfasis-17 {
-	color: #197126;
-}
-
-
-.unittag_morado_lesblogueurs .bck-enfasis-22:before {
-	color: #197126;
-}
-
-
-.unittag_morado_lesblogueurs .bck-enfasis-23 {
-	background-color: #79639b;
-}
-
-.unittag_morado_lesblogueurs .bck-enfasis-23:after {
-	border-right: 33px solid #4e4271;
-}
-
-/*
-
-.unittag_morado_lesblogueurs .bck-enfasis-25 {
-	border: 2px solid #197126;
-}
-
-
-.unittag_morado_lesblogueurs .bck-enfasis-26 {
-    background-color: #197126;
-}
-
-.unittag_morado_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_morado_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_morado_lesblogueurs #actividad .content .texto_curso .bck-ol-5 li, 
-.unittag_morado_lesblogueurs #actividad .popover-content .bck-ol-5 li, 
-.unittag_morado_lesblogueurs #actividad .content .workspace ul li .bck-ol-5 li {
-   color: #197126;
+.unittag_morado_lesblogueurs .bck-enfasis-2 {	
+	background-color: #7553A2;
 }
 
 .unittag_morado_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li:before, 
 .unittag_morado_lesblogueurs #actividad .content .texto_curso .bck-ol-5 li:before, 
 .unittag_morado_lesblogueurs #actividad .popover-content .bck-ol-5 li:before, 
 .unittag_morado_lesblogueurs #actividad .content .workspace ul li .bck-ol-5 li:before {
-	background-color: #197126;
+	background-color: #7553A2;
 }
 
 
@@ -6327,280 +5754,119 @@ body:not(.edit) .modal.fade .modal-dialog {
 .unittag_morado_lesblogueurs #actividad .content .texto_curso .bck-ol-6 li:before, 
 .unittag_morado_lesblogueurs #actividad .popover-content .bck-ol-6 li:before, 
 .unittag_morado_lesblogueurs #actividad .content .workspace ul li .bck-ol-6 li:before {
-  	color: #197126;
- 	border: 2px solid #197126;
+	background-color: #7553A2;
 }
 
-.unittag_morado_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li, 
-.unittag_morado_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li, 
-.unittag_morado_lesblogueurs #actividad .content .texto_curso .bck-ol-7 li, 
-.unittag_morado_lesblogueurs #actividad .popover-content .bck-ol-7 li, 
-.unittag_morado_lesblogueurs #actividad .content .workspace ul li .bck-ol-7 li {
-   color: #79639b;
+.unittag_morado_lesblogueurs #actividad .content .cke_contents .bck-ol-12 li:before, 
+.unittag_morado_lesblogueurs #actividad .content .texto_curso ol.bck-ol-12 li:before, 
+.unittag_morado_lesblogueurs #actividad .popover-content ol.bck-ol-12 li:before, 
+.unittag_morado_lesblogueurs #actividad .content .workspace ul li ol.bck-ol-12 li:before {
+	background-color: #7553A2;
 }
 
-.unittag_morado_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li:before, 
-.unittag_morado_lesblogueurs #actividad .content .texto_curso .bck-ol-7 li:before, 
-.unittag_morado_lesblogueurs #actividad .popover-content .bck-ol-7 li:before, 
-.unittag_morado_lesblogueurs #actividad .content .workspace ul li .bck-ol-7 li:before {
-	background-color: #79639b;
+.unittag_morado_lesblogueurs #actividad .content .cke_contents .bck-ul-8 li:before, 
+.unittag_morado_lesblogueurs #actividad .content .texto_curso ul.bck-ul-8 li:before, 
+.unittag_morado_lesblogueurs #actividad .popover-content ul.bck-ul-8 li:before, 
+.unittag_morado_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-8 li:before {
+    background-color: #7553A2;
 }
 
-
-.unittag_morado_lesblogueurs #actividad .content .cke_contents .bck-ol-8 li:before, 
-.unittag_morado_lesblogueurs #actividad .content .texto_curso .bck-ol-8 li:before, 
-.unittag_morado_lesblogueurs #actividad .popover-content .bck-ol-8 li:before, 
-.unittag_morado_lesblogueurs #actividad .content .workspace ul li .bck-ol-8 li:before {
-	color: #79639b;
+.unittag_morado_lesblogueurs #actividad .content .cke_contents .bck-ul-9 li:before, 
+.unittag_morado_lesblogueurs #actividad .content .texto_curso ul.bck-ul-9 li:before, 
+.unittag_morado_lesblogueurs #actividad .popover-content ul.bck-ul-9 li:before, 
+.unittag_morado_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-9 li:before {
+   background-color: #7553A2;
 }
 
-.unittag_morado_lesblogueurs #actividad .content .cke_contents .bck-ol-18 li:before, 
-.unittag_morado_lesblogueurs #actividad .content .texto_curso ol.bck-ol-18 li:before, 
-.unittag_morado_lesblogueurs #actividad .popover-content ol.bck-ol-18 li:before, 
-.unittag_morado_lesblogueurs #actividad .content .workspace ul li ol.bck-ol-18 li:before {
-	background-color: #197126;
+.unittag_morado_lesblogueurs .bck-box-18>.bck-title {
+	background-color: #7553A2;
 }
 
-
-
-.unittag_morado_lesblogueurs #actividad .content .cke_contents .bck-ul-5 li:before, 
-.unittag_morado_lesblogueurs #actividad .content .texto_curso ul.bck-ul-5 li:before, 
-.unittag_morado_lesblogueurs #actividad .popover-content ul.bck-ul-5 li:before, 
-.unittag_morado_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-5 li:before {
-    color: #197126;
+.unittag_morado_lesblogueurs .bck-box.bck-box-18>.bck-content {
+	border: 2px solid #7553A2;
 }
 
-.unittag_morado_lesblogueurs #actividad .content .cke_contents .bck-ul-6 li:before, 
-.unittag_morado_lesblogueurs #actividad .content .texto_curso ul.bck-ul-6 li:before, 
-.unittag_morado_lesblogueurs #actividad .popover-content ul.bck-ul-6 li:before, 
-.unittag_morado_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-6 li:before {
-   color: #197126;
+.unittag_morado_lesblogueurs .bck-box.bck-box-15 {
+	background: #7553A2;
 }
 
 
-.unittag_morado_lesblogueurs .bck-box.bck-box-1 {
-	background: #79639b;
+/*----------------UNITTAG AZUL------------------------*/
+
+.unittag_azul_lesblogueurs #actividad .content .header .title h3 {
+	color: #007DC4;
 }
 
-.unittag_morado_lesblogueurs .bck-box-1>.bck-title {
-	background-color: #79639b;
-}
-
-.unittag_morado_lesblogueurs .bck-box.bck-box-1>.bck-content {
-	background-color: #79639b;
-}
-
-.unittag_morado_lesblogueurs .bck-box.bck-box-2 {
-	border: 2px dotted #79639b;
-	background: #e8e3ee;
-}
-
-.unittag_morado_lesblogueurs .bck-box.bck-box-2>.bck-title {
-	background: #e8e3ee;
-}
-
-.unittag_morado_lesblogueurs .bck-box.bck-box-2>.bck-content {
-    background: #e8e3ee;
-}
-
-.unittag_morado_lesblogueurs .bck-box.bck-box-20>.bck-content {
-	border: 3px solid #79639b;
-}
-
-.unittag_morado_lesblogueurs .bck-box.bck-box-22 {
-	background-color: #d1c8dd;
-}
-
-.unittag_morado_lesblogueurs .bck-box.bck-box-24>.bck-title {
-	background: #79639b;
+.unittag_azul_lesblogueurs #actividad .content .header .title {
+	background: #007DC4;
 }
 
 
-/*----------------UNITTAG ROSA------------------------
-
-.unittag_rosa_lesblogueurs .bck-tooltip {
-    color: #007A88;
+.unittag_azul_lesblogueurs .bck-title-3 {
+	background-color: #007DC4;
 }
 
-.unittag_rosa_lesblogueurs #actividad .content .header .title h3 {
-	color: #de0067;
+.unittag_azul_lesblogueurs .bck-title-4 {
+	border-bottom: 4px solid #007DC4;
+    color: #007DC4;
 }
 
-.unittag_rosa_lesblogueurs #actividad .content .header .title {
-	background: #de0067;
+.unittag_azul_lesblogueurs .bck-title-5 {
+	color: #007DC4;
 }
 
-.unittag_rosa_lesblogueurs .bck-title-1 {
-	color: #de0067;
+.unittag_azul_lesblogueurs .bck-enfasis-2 {	
+	background-color: #007DC4;
 }
 
-.unittag_rosa_lesblogueurs .bck-title-3 {
-	background-color: #de0067;
-}
-
-.unittag_rosa_lesblogueurs .bck-title-5 {
-	color: #007A88;
-}
-
-.unittag_rosa_lesblogueurs .bck-title-7 {
-	background-color: #007A88;
-}
-
-.unittag_rosa_lesblogueurs .bck-title-8 {
-	background-color: #007A88;
+.unittag_azul_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li:before, 
+.unittag_azul_lesblogueurs #actividad .content .texto_curso .bck-ol-5 li:before, 
+.unittag_azul_lesblogueurs #actividad .popover-content .bck-ol-5 li:before, 
+.unittag_azul_lesblogueurs #actividad .content .workspace ul li .bck-ol-5 li:before {
+	background-color: #007DC4;
 }
 
 
-.unittag_rosa_lesblogueurs .bck-enfasis-7 {	
-	color: #de0067;
+.unittag_azul_lesblogueurs #actividad .content .cke_contents .bck-ol-6 li:before, 
+.unittag_azul_lesblogueurs #actividad .content .texto_curso .bck-ol-6 li:before, 
+.unittag_azul_lesblogueurs #actividad .popover-content .bck-ol-6 li:before, 
+.unittag_azul_lesblogueurs #actividad .content .workspace ul li .bck-ol-6 li:before {
+	background-color: #007DC4;
 }
 
-
-.unittag_rosa_lesblogueurs .bck-enfasis-9 {	
-	background-color: #de0067;
+.unittag_azul_lesblogueurs #actividad .content .cke_contents .bck-ol-12 li:before, 
+.unittag_azul_lesblogueurs #actividad .content .texto_curso ol.bck-ol-12 li:before, 
+.unittag_azul_lesblogueurs #actividad .popover-content ol.bck-ol-12 li:before, 
+.unittag_azul_lesblogueurs #actividad .content .workspace ul li ol.bck-ol-12 li:before {
+	background-color: #007DC4;
 }
 
-.unittag_rosa_lesblogueurs .bck-enfasis-10 {	
-	color: #de0067;
+.unittag_azul_lesblogueurs #actividad .content .cke_contents .bck-ul-8 li:before, 
+.unittag_azul_lesblogueurs #actividad .content .texto_curso ul.bck-ul-8 li:before, 
+.unittag_azul_lesblogueurs #actividad .popover-content ul.bck-ul-8 li:before, 
+.unittag_azul_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-8 li:before {
+    background-color: #007DC4;
 }
 
-.unittag_rosa_lesblogueurs .bck-enfasis-17 {
-	color: #007A88;
+.unittag_azul_lesblogueurs #actividad .content .cke_contents .bck-ul-9 li:before, 
+.unittag_azul_lesblogueurs #actividad .content .texto_curso ul.bck-ul-9 li:before, 
+.unittag_azul_lesblogueurs #actividad .popover-content ul.bck-ul-9 li:before, 
+.unittag_azul_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-9 li:before {
+   background-color: #007DC4;
 }
 
-
-.unittag_rosa_lesblogueurs .bck-enfasis-22:before {
-	color: #007A88;
+.unittag_azul_lesblogueurs .bck-box-18>.bck-title {
+	background-color: #007DC4;
 }
 
-
-.unittag_rosa_lesblogueurs .bck-enfasis-23 {
-	background-color: #de0067;
+.unittag_azul_lesblogueurs .bck-box.bck-box-18>.bck-content {
+	border: 2px solid #007DC4;
 }
 
-.unittag_rosa_lesblogueurs .bck-enfasis-23:after {
-	border-right: 33px solid #b10555;
+.unittag_azul_lesblogueurs .bck-box.bck-box-15 {
+	background: #007DC4;
 }
 
-/*
-
-.unittag_rosa_lesblogueurs .bck-enfasis-25 {
-	border: 2px solid #007A88;
-}
-
-
-.unittag_rosa_lesblogueurs .bck-enfasis-26 {
-    background-color: #007A88;
-}
-
-.unittag_rosa_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_rosa_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li, 
-.unittag_rosa_lesblogueurs #actividad .content .texto_curso .bck-ol-5 li, 
-.unittag_rosa_lesblogueurs #actividad .popover-content .bck-ol-5 li, 
-.unittag_rosa_lesblogueurs #actividad .content .workspace ul li .bck-ol-5 li {
-   color: #007A88;
-}
-
-.unittag_rosa_lesblogueurs #actividad .content .cke_contents .bck-ol-5 li:before, 
-.unittag_rosa_lesblogueurs #actividad .content .texto_curso .bck-ol-5 li:before, 
-.unittag_rosa_lesblogueurs #actividad .popover-content .bck-ol-5 li:before, 
-.unittag_rosa_lesblogueurs #actividad .content .workspace ul li .bck-ol-5 li:before {
-	background-color: #007A88;
-}
-
-
-.unittag_rosa_lesblogueurs #actividad .content .cke_contents .bck-ol-6 li:before, 
-.unittag_rosa_lesblogueurs #actividad .content .texto_curso .bck-ol-6 li:before, 
-.unittag_rosa_lesblogueurs #actividad .popover-content .bck-ol-6 li:before, 
-.unittag_rosa_lesblogueurs #actividad .content .workspace ul li .bck-ol-6 li:before {
-  	color: #007A88;
- 	border: 2px solid #007A88;
-}
-
-.unittag_rosa_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li, 
-.unittag_rosa_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li, 
-.unittag_rosa_lesblogueurs #actividad .content .texto_curso .bck-ol-7 li, 
-.unittag_rosa_lesblogueurs #actividad .popover-content .bck-ol-7 li, 
-.unittag_rosa_lesblogueurs #actividad .content .workspace ul li .bck-ol-7 li {
-   color: #de0067;
-}
-
-.unittag_rosa_lesblogueurs #actividad .content .cke_contents .bck-ol-7 li:before, 
-.unittag_rosa_lesblogueurs #actividad .content .texto_curso .bck-ol-7 li:before, 
-.unittag_rosa_lesblogueurs #actividad .popover-content .bck-ol-7 li:before, 
-.unittag_rosa_lesblogueurs #actividad .content .workspace ul li .bck-ol-7 li:before {
-	background-color: #de0067;
-}
-
-
-.unittag_rosa_lesblogueurs #actividad .content .cke_contents .bck-ol-8 li:before, 
-.unittag_rosa_lesblogueurs #actividad .content .texto_curso .bck-ol-8 li:before, 
-.unittag_rosa_lesblogueurs #actividad .popover-content .bck-ol-8 li:before, 
-.unittag_rosa_lesblogueurs #actividad .content .workspace ul li .bck-ol-8 li:before {
-	color: #de0067;
-}
-
-.unittag_rosa_lesblogueurs #actividad .content .cke_contents .bck-ol-18 li:before, 
-.unittag_rosa_lesblogueurs #actividad .content .texto_curso ol.bck-ol-18 li:before, 
-.unittag_rosa_lesblogueurs #actividad .popover-content ol.bck-ol-18 li:before, 
-.unittag_rosa_lesblogueurs #actividad .content .workspace ul li ol.bck-ol-18 li:before {
-	background-color: #007A88;
-}
-
-
-
-.unittag_rosa_lesblogueurs #actividad .content .cke_contents .bck-ul-5 li:before, 
-.unittag_rosa_lesblogueurs #actividad .content .texto_curso ul.bck-ul-5 li:before, 
-.unittag_rosa_lesblogueurs #actividad .popover-content ul.bck-ul-5 li:before, 
-.unittag_rosa_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-5 li:before {
-    color: #007A88;
-}
-
-.unittag_rosa_lesblogueurs #actividad .content .cke_contents .bck-ul-6 li:before, 
-.unittag_rosa_lesblogueurs #actividad .content .texto_curso ul.bck-ul-6 li:before, 
-.unittag_rosa_lesblogueurs #actividad .popover-content ul.bck-ul-6 li:before, 
-.unittag_rosa_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-6 li:before {
-   color: #007A88;
-}
-
-
-.unittag_rosa_lesblogueurs .bck-box.bck-box-1 {
-	background: #de0067;
-}
-
-.unittag_rosa_lesblogueurs .bck-box-1>.bck-title {
-	background-color: #de0067;
-}
-
-.unittag_rosa_lesblogueurs .bck-box.bck-box-1>.bck-content {
-	background-color: #de0067;
-}
-
-.unittag_rosa_lesblogueurs .bck-box.bck-box-2 {
-	border: 2px dotted #de0067;
-	background: #ffdee4;
-}
-
-.unittag_rosa_lesblogueurs .bck-box.bck-box-2>.bck-title {
-	background: #ffdee4;
-}
-
-.unittag_rosa_lesblogueurs .bck-box.bck-box-2>.bck-content {
-    background: #ffdee4;
-}
-
-.unittag_rosa_lesblogueurs .bck-box.bck-box-20>.bck-content {
-	border: 3px solid #de0067;
-}
-
-.unittag_rosa_lesblogueurs .bck-box.bck-box-22 {
-	background-color: #fdbcc9;
-}
-
-
-.unittag_rosa_lesblogueurs .bck-box.bck-box-24>.bck-title {
-	background: #de0067;
-}
 
 
 
