@@ -5049,7 +5049,7 @@ table.bck-table-1 {
 
 
 table.bck-table-1 td {
-    border-color: #d58001;
+    border-color: #F26D23;
 }
 
 /*TABLA 2*/ 
@@ -5190,7 +5190,7 @@ table.bck-table-12 td {
 
 /*CELDA 1*/
 table td.bck-td-1 {
-	background-color: #D58001;
+	background-color: #F26D23;
     font-family: Conv_Calibre;
     font-weight: bold;
     color: #fff;
@@ -5422,7 +5422,7 @@ table td.bck-td-10 {
 
 
 .unittag_marron_lesblogueurs .bck-title-3 {
-	background-color: #716467;
+	color: #716467;
 }
 
 .unittag_marron_lesblogueurs .bck-title-4 {
@@ -5464,7 +5464,8 @@ table td.bck-td-10 {
 .unittag_marron_lesblogueurs #actividad .content .texto_curso ul.bck-ul-8 li:before, 
 .unittag_marron_lesblogueurs #actividad .popover-content ul.bck-ul-8 li:before, 
 .unittag_marron_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-8 li:before {
-    background-color: #716467;
+    color: #716467;
+    border: 1px solid #716467;
 }
 
 .unittag_marron_lesblogueurs #actividad .content .cke_contents .bck-ul-9 li:before, 
@@ -5499,7 +5500,7 @@ table td.bck-td-10 {
 
 
 .unittag_naranja_lesblogueurs .bck-title-3 {
-	background-color: #F26D23;
+	color: #F26D23;
 }
 
 .unittag_naranja_lesblogueurs .bck-title-4 {
@@ -5541,7 +5542,8 @@ table td.bck-td-10 {
 .unittag_naranja_lesblogueurs #actividad .content .texto_curso ul.bck-ul-8 li:before, 
 .unittag_naranja_lesblogueurs #actividad .popover-content ul.bck-ul-8 li:before, 
 .unittag_naranja_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-8 li:before {
-    background-color: #F26D23;
+    olor: #F26D23;
+    border: 1px solid #F26D23;
 }
 
 .unittag_naranja_lesblogueurs #actividad .content .cke_contents .bck-ul-9 li:before, 
@@ -5574,7 +5576,7 @@ table td.bck-td-10 {
 
 
 .unittag_oliva_lesblogueurs .bck-title-3 {
-	background-color: #86A43E;
+	color: #86A43E;
 }
 
 .unittag_oliva_lesblogueurs .bck-title-4 {
@@ -5616,7 +5618,8 @@ table td.bck-td-10 {
 .unittag_oliva_lesblogueurs #actividad .content .texto_curso ul.bck-ul-8 li:before, 
 .unittag_oliva_lesblogueurs #actividad .popover-content ul.bck-ul-8 li:before, 
 .unittag_oliva_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-8 li:before {
-    background-color: #86A43E;
+    color: #86A43E;
+    border: 1px solid #86A43E;
 }
 
 .unittag_oliva_lesblogueurs #actividad .content .cke_contents .bck-ul-9 li:before, 
@@ -5650,7 +5653,7 @@ table td.bck-td-10 {
 
 
 .unittag_verde_lesblogueurs .bck-title-3 {
-	background-color: #00AA4E;
+	color: #00AA4E;
 }
 
 .unittag_verde_lesblogueurs .bck-title-4 {
@@ -5692,7 +5695,8 @@ table td.bck-td-10 {
 .unittag_verde_lesblogueurs #actividad .content .texto_curso ul.bck-ul-8 li:before, 
 .unittag_verde_lesblogueurs #actividad .popover-content ul.bck-ul-8 li:before, 
 .unittag_verde_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-8 li:before {
-    background-color: #00AA4E;
+    color: #00AA4E;
+    border:1px solid #00AA4E;
 }
 
 .unittag_verde_lesblogueurs #actividad .content .cke_contents .bck-ul-9 li:before, 
@@ -5726,7 +5730,7 @@ table td.bck-td-10 {
 
 
 .unittag_morado_lesblogueurs .bck-title-3 {
-	background-color: #7553A2;
+	color: #7553A2;
 }
 
 .unittag_morado_lesblogueurs .bck-title-4 {
@@ -5768,7 +5772,8 @@ table td.bck-td-10 {
 .unittag_morado_lesblogueurs #actividad .content .texto_curso ul.bck-ul-8 li:before, 
 .unittag_morado_lesblogueurs #actividad .popover-content ul.bck-ul-8 li:before, 
 .unittag_morado_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-8 li:before {
-    background-color: #7553A2;
+    color: #7553A2;
+    border: 1px solid #7553A2;
 }
 
 .unittag_morado_lesblogueurs #actividad .content .cke_contents .bck-ul-9 li:before, 
@@ -5803,7 +5808,7 @@ table td.bck-td-10 {
 
 
 .unittag_azul_lesblogueurs .bck-title-3 {
-	background-color: #007DC4;
+	color: #007DC4;
 }
 
 .unittag_azul_lesblogueurs .bck-title-4 {
@@ -5845,7 +5850,8 @@ table td.bck-td-10 {
 .unittag_azul_lesblogueurs #actividad .content .texto_curso ul.bck-ul-8 li:before, 
 .unittag_azul_lesblogueurs #actividad .popover-content ul.bck-ul-8 li:before, 
 .unittag_azul_lesblogueurs #actividad .content .workspace ul li ul.bck-ul-8 li:before {
-    background-color: #007DC4;
+    color: #007DC4;
+    border:1px solid #007DC4;
 }
 
 .unittag_azul_lesblogueurs #actividad .content .cke_contents .bck-ul-9 li:before, 
@@ -5866,8 +5872,6 @@ table td.bck-td-10 {
 .unittag_azul_lesblogueurs .bck-box.bck-box-15 {
 	background: #007DC4;
 }
-
-
 
 
 
