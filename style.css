@@ -5581,6 +5581,11 @@ table td.bck-td-10 {
 	background: #F26D23;
 }
 
+.unittag_naranja_lesblogueurs .bck-box.bck-box-13>.bck-title {
+    border-bottom: 4px solid #F26D23;
+    color: #F26D23;
+}
+
 /*----------------UNITTAG OLIVA------------------------*/
 
 .unittag_oliva_lesblogueurs #actividad .content .header .title h3 {
@@ -5656,6 +5661,11 @@ table td.bck-td-10 {
 
 .unittag_oliva_lesblogueurs .bck-box.bck-box-15 {
 	background: #86A43E;
+}
+
+.unittag_oliva_lesblogueurs .bck-box.bck-box-13>.bck-title {
+    border-bottom: 4px solid #86A43E;
+    color: #86A43E;
 }
 
 /*----------------UNITTAG VERDE------------------------*/
@@ -5735,6 +5745,11 @@ table td.bck-td-10 {
 	background: #00AA4E;
 }
 
+.unittag_verde_lesblogueurs .bck-box.bck-box-13>.bck-title {
+    border-bottom: 4px solid #00AA4E;
+    color: #00AA4E;
+}
+
 /*----------------UNITTAG MORADO------------------------*/
 
 .unittag_morado_lesblogueurs #actividad .content .header .title h3 {
@@ -5810,6 +5825,11 @@ table td.bck-td-10 {
 
 .unittag_morado_lesblogueurs .bck-box.bck-box-15 {
 	background: #7553A2;
+}
+
+.unittag_morado_lesblogueurs .bck-box.bck-box-13>.bck-title {
+    border-bottom: 4px solid #7553A2;
+    color: #7553A2;
 }
 
 
@@ -5890,6 +5910,11 @@ table td.bck-td-10 {
 	background: #007DC4;
 }
 
+.unittag_azul_lesblogueurs .bck-box.bck-box-13>.bck-title {
+    border-bottom: 4px solid #007DC4;
+    color: #007DC4;
+}
+
 
 /*----------------UNITTAG ROSA------------------------*/
 
@@ -5968,6 +5993,11 @@ table td.bck-td-10 {
 	background: #B4347C;
 }
 
+.unittag_rosa_lesblogueurs .bck-box.bck-box-13>.bck-title {
+    border-bottom: 4px solid #B4347C;
+    color: #B4347C;
+}
+
 /*----------------UNITTAG VIOLETA------------------------*/
 
 .unittag_violeta_lesblogueurs #actividad .content .header .title h3 {
@@ -6043,6 +6073,11 @@ table td.bck-td-10 {
 
 .unittag_violeta_lesblogueurs .bck-box.bck-box-15 {
 	background: #6D80BE;
+}
+
+.unittag_violeta_lesblogueurs .bck-box.bck-box-13>.bck-title {
+    border-bottom: 4px solid #6D80BE;
+    color: #6D80BE;
 }
 
 
