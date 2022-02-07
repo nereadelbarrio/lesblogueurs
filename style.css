@@ -3643,6 +3643,34 @@ padding: 1px 1px;
     width: 100%;
 }
 
+/*CAJA 20*/
+.bck-box.bck-box-20 {
+	background: transparent;
+    border: none;
+    text-align: left;
+    border-radius: 0px;
+}
+
+.bck-box-20>.bck-title {
+    border: 0px;
+    color: #fff;
+    text-align: left;
+    font-size: 2rem;
+    background: #00B2C0;
+    padding: 10px 20px 0px 20px;
+    font-weight: bold;
+}
+
+.bck-box.bck-box-20>.bck-content {
+	padding: 20px 27px;
+	background: #D8EFF2;
+}
+
+
+.bck-box.bck-box-20>.bck-title:before {
+	 display: none;
+}
+
 
 /********REPORTERORS BORRAR AL FINAL*******/
 
