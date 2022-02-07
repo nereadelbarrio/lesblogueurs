@@ -1330,6 +1330,14 @@ background-color: #B3DDF0;
     font-family: 'Conv_Calibre';
 }
 
+/*ENFASIS 12*/
+.bck-enfasis-12 {
+    color: #fff;
+    font-weight: 500;
+    background-color: #00B2C0;
+    padding: 11px 12px 4px 12px;
+}
+
 /********REPORTERORS BORRAR AL FINAL*******/
 /*ENFASIS 9
 .bck-enfasis-9 {
