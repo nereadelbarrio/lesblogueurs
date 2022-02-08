@@ -2465,10 +2465,10 @@ counter-increment: bck-li-counter;
 #actividad .content .texto_curso .bck-ol-12 li:before,
 #actividad .popover-content .bck-ol-12 li:before,
 #actividad .content .workspace ul li .bck-ol-12 li:before {
-content: counter(bck-li-counter, upper-alpha);
+	content: counter(bck-li-counter, upper-alpha);
     font-family: Conv_Calibre;
     font-weight: 700;
-    position: absolute;
+    position: relative;
     color: #fff;
     background-color: #E7304A;
     font-size: 2.2rem;
@@ -2478,7 +2478,7 @@ content: counter(bck-li-counter, upper-alpha);
     width: 50px;
     height: 25px;
     margin-top: 0px;
-    margin-left: -27px;
+    margin-left: -22px;
     text-align: center;
 }
 
@@ -2565,49 +2565,7 @@ counter-increment: bck-li-counter;
 }
 
 
-/*LISTA ORDENADA 15*/
-#actividad .content .cke_contents .bck-ol-15,
-#actividad .content .texto_curso .bck-ol-15,
-#actividad .content .workspace ul li .bck-ol-15 {
-	list-style-type: none;
-	counter-reset: bck-li-counter;
-	padding-left: 52px;
-}
 
-#actividad .content .cke_contents .bck-ol-15 li,
-#actividad .content .cke_contents .bck-ol-15 li,
-#actividad .content .texto_curso .bck-ol-15 li,
-#actividad .popover-content .bck-ol-15 li,
-#actividad .content .workspace ul li .bck-ol-15 li {
-counter-increment: bck-li-counter;
-    padding-left: 5px;
-    position: relative;
-    z-index: 0;
-    font-weight: 400;
-    color: #000;
-    font-size: 24px;
-}
-
-
-#actividad .content .cke_contents .bck-ol-15 li:before,
-#actividad .content .texto_curso .bck-ol-15 li:before,
-#actividad .popover-content .bck-ol-15 li:before,
-#actividad .content .workspace ul li .bck-ol-15 li:before {
-content: counter(bck-li-counter, upper-alpha);
-    font-family: Conv_Calibre;
-    font-weight: 700;
-    position: absolute;
-    color: #fff;
-    background-color: #E7304A;
-    font-size: 2.2rem;
-    padding-left: 16px;
-    padding-top: 6px;
-    width: 50px;
-    height: 25px;
-    margin-top: 0px;
-    margin-left: -27px;
-    text-align: center;
-}
 
 /*LISTAS DESORDENADAS*/
 .texto_curso ul li {
