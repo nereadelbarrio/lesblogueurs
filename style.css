@@ -4921,6 +4921,14 @@ margin-bottom: 0px;
     margin-top: -5px;
 }
 
+.item-container .icon-personasola-negro:before {
+	background-image: url(images/icono_solo_negro_lesblogueurs.png);
+	width: 18px;
+    height: 14px;
+    margin-right: 5px;
+    margin-top: -5px;
+}
+
 /*.item-container .icon-parejas-blanco:before {
 	background-image: url(images/icono_enparejas_blanco_reporterosusa.png);
 	width: 18px;
