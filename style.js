@@ -38,6 +38,7 @@
 				{ name: 'Énfasis 10', element: 'span', attributes: { 'class': 'bck-enfasis-10'} },
 				{ name: 'Énfasis 11', element: 'span', attributes: { 'class': 'bck-enfasis-11'} },
 				{ name: 'Énfasis 12', element: 'span', attributes: { 'class': 'bck-enfasis-12'} },
+				{ name: 'Énfasis 13', element: 'span', attributes: { 'class': 'bck-enfasis-13'} },
 			
 				{ name: 'Lista Ordenada 01', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-1' } },
 				{ name: 'Lista Ordenada 02', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-2' } },
@@ -53,6 +54,7 @@
 				{ name: 'Lista Ordenada 12', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-12' } },
 				{ name: 'Lista Ordenada 13', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-13' } },
 				{ name: 'Lista Ordenada 14', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-14' } },
+				{ name: 'Lista Ordenada 15', element: 'ol', attributes: { 'class': 'bck-ol bck-ol-15' } },
 
 				{ name: 'Lista Desordenada 01', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-1' } },
 				{ name: 'Lista Desordenada 02', element: 'ul', attributes: { 'class': 'bck-ul bck-ul-2' } },
