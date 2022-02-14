@@ -5141,6 +5141,46 @@ width: 19px;
     margin-top: -5px;
 }
 
+.item-container .icon-ci:before {
+	background-image: url(images/icono_CI_lesblogueurs.png);
+	width: 24px;
+    height: 24px;
+    margin-right: 5px;
+    margin-top: -5px;
+}
+
+.item-container .icon-exclamacionmorada:before {
+	background-image: url(images/icono_exclamacion_morada_lesblogueurs.png);
+	width: 24px;
+    height: 24px;
+    margin-right: 5px;
+    margin-top: -5px;
+}
+
+.item-container .icon-exclamacionazulinversa:before {
+	background-image: url(images/icono_exclamacion_azulinversa_lesblogueurs.png);
+	width: 24px;
+    height: 24px;
+    margin-right: 5px;
+    margin-top: -5px;
+}
+
+.item-container .icon-exclamacionnaranja:before {
+	background-image: url(images/icono_exclamacion_naranja_lesblogueurs.png);
+	width: 24px;
+    height: 24px;
+    margin-right: 5px;
+    margin-top: -5px;
+}
+
+.item-container .icon-exclamaciongris:before {
+	background-image: url(images/icono_exclamacion_gris_lesblogueurs.png);
+	width: 24px;
+    height: 24px;
+    margin-right: 5px;
+    margin-top: -5px;
+}
+
 .item-container .icon-exclamacion:before {
 	background-image: url(images/icono_exclamacion_azul_lesblogueurs.png);
 	width: 55px;
