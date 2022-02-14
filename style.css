@@ -817,7 +817,7 @@ body.is_app .lesblogueurs-navbar.ocultar {
 	background-repeat: no-repeat;
 	border-radius: 100%;
 	margin: -4px 8px 0px 5px;
-	vertical-align: middle;
+	vertical-align: text-top;
 }
 
 .bck-sub-label,
@@ -4595,6 +4595,7 @@ margin-bottom: 0px;
 #actividad .workspace.true-false .tf-option {
 	display: inline-block;
 	margin-left: 50px;
+	margin-top: 15px;
 }
 
 #actividad .workspace.true-false .solucion {
