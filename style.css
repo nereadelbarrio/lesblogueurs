@@ -5310,6 +5310,19 @@ table.bck-table-12 td {
     background-color: transparent;
 }
 
+/*TABLA 13*/ 
+table.bck-table-13 {
+	border: 2px solid #009B84;
+}
+
+table.bck-table-13 td {
+    border-color: #009B84;
+}
+
+table.bck-table-13 td.bck-td-11 {
+    border-color: #fff;
+}
+
 /*CELDA 1*/
 table td.bck-td-1 {
 	background-color: #F26D23;
@@ -5401,11 +5414,21 @@ table td.bck-td-9 {
 
 /*CELDA 10*/
 table td.bck-td-10 {
-	background-color: #767B24;
+	background-color: #009B84;
 	color: #fff;
 	font-family: 'Conv_Calibre';
 	font-weight: bold;
 }
+
+
+/*CELDA 11*/
+table td.bck-td-11 {
+	background-color: #767B24;
+	color: #fff;
+	font-family: 'Conv_Calibre';
+	font-weight: bold;
+}  
+
 
 /*Boton toc - boton reininciar ejercicio*/
 .btn-primary {
