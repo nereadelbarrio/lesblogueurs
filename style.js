@@ -99,6 +99,7 @@
 				{ name: 'Icono Colores', element: 'span', attributes: { 'class': 'icon icon-colores' } },
 				{ name: 'Icono Exclamación', element: 'span', attributes: { 'class': 'icon icon-exclamacion' } },
 				{ name: 'Icono Flecha Naranja', element: 'span', attributes: { 'class': 'icon icon-flechanaranja' } },	
+				{ name: 'Icono Persona sola', element: 'span', attributes: { 'class': 'icon icon-personasola-negro' } },
 				
 				
 				{ name: 'Tabla 01', element: 'table', attributes: { 'class': 'bck-table-1' } },
