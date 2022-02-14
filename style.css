@@ -5143,8 +5143,8 @@ width: 19px;
 
 .item-container .icon-ci:before {
 	background-image: url(images/icono_CI_lesblogueurs.png);
-	width: 24px;
-    height: 24px;
+	width: 34px;
+    height: 34px;
     margin-right: 5px;
     margin-top: -5px;
 }
@@ -5175,8 +5175,8 @@ width: 19px;
 
 .item-container .icon-exclamaciongris:before {
 	background-image: url(images/icono_exclamacion_gris_lesblogueurs.png);
-	width: 24px;
-    height: 24px;
+	width: 55px;
+    height: 57px;
     margin-right: 5px;
     margin-top: -5px;
 }
