@@ -4919,10 +4919,10 @@ margin-bottom: 0px;
 
 .item-container .icon-parejas-negro:before {
 	background-image: url(images/icono_enparejas_negro_lesblogueurs.png);
-	width: 18px;
-    height: 14px;
-    margin-right: 5px;
-    margin-top: -5px;
+	width: 28px;
+	    height: 22px;
+	    margin-right: 5px;
+	    margin-top: -7px;
 }
 
 .item-container .icon-personasola-negro:before {
@@ -4943,10 +4943,10 @@ margin-bottom: 0px;
 
 .item-container .icon-grupos-negro:before {
 	background-image: url(images/icono_engrupos_negro_lesblogueurs.png);
-    width: 16px;
-    height: 16px;
+	width: 26px;
+    height: 24px;
     margin-right: 5px;
-    margin-top: -5px;
+    margin-top: -7px;
 }
 
 /*.item-container .icon-grupos-blanco:before {
@@ -5125,10 +5125,10 @@ width: 19px;
 
 .item-container .icon-dados:before {
 	background-image: url(images/icono_dados_negro_lesblogueurs.png);
-	width: 23px;
-    height: 19px;
-    margin-right: 5px;
-    margin-top: -5px;
+	width: 28px;
+	    height: 22px;
+	    margin-right: 5px;
+	    margin-top: -7px;
 }
 
 .item-container .icon-colores:before {
