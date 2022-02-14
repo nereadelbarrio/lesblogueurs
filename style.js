@@ -113,6 +113,7 @@
 				{ name: 'Tabla 10', element: 'table', attributes: { 'class': 'bck-table-10' } },
 				{ name: 'Tabla 11', element: 'table', attributes: { 'class': 'bck-table-11' } },
 				{ name: 'Tabla 12', element: 'table', attributes: { 'class': 'bck-table-12' } },
+				{ name: 'Tabla 13', element: 'table', attributes: { 'class': 'bck-table-13' } },
 
 				{ name: 'Celda 01', element: 'td', attributes: { 'class': 'bck-td-1' } },
 				{ name: 'Celda 02', element: 'td', attributes: { 'class': 'bck-td-2' } },
@@ -124,6 +125,7 @@
 				{ name: 'Celda 08', element: 'td', attributes: { 'class': 'bck-td-8' } },
 				{ name: 'Celda 09', element: 'td', attributes: { 'class': 'bck-td-9' } },
 				{ name: 'Celda 10', element: 'td', attributes: { 'class': 'bck-td-10' } },
+				{ name: 'Celda 11', element: 'td', attributes: { 'class': 'bck-td-11' } },
 
 				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown bck-dropdown-1' } }
 			]
