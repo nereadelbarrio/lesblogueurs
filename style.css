@@ -5065,9 +5065,10 @@ margin-bottom: 0px;
 
 .item-container .icon-video:before {
 	background-image: url(images/icono_video_lesblogueurs.png);
-	width: 20px;
-    height: 13px;
-	margin-right: 5px;
+	width: 26px;
+    height: 24px;
+    margin-right: 5px;
+    margin-top: -7px;
 }
 
 .item-container .icon-lupa:before {
