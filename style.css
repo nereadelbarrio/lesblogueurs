@@ -362,20 +362,20 @@ button.btn.btn-primary.disabled {
 }
 
 #indice .unit-content .material .item .imagen.musica:after {
-	background-image: url(images/icono_audio_materialapoyo_reporterosusa.png);
+	background-image: url(images/icono_audio_materialapoyo_lesblogueurs.png);
 	background-color: #000000;
     border-radius: 50%;
 }
 
 #indice .unit-content .material .item .imagen.video:after {
-    background-image: url(images/icono_video_materialapoyo_reporterosusa.png);
+    background-image: url(images/icono_video_materialapoyo_lesblogueurs.png);
     background-color: #000000;
     border-radius: 50%;
 }
 
 #indice .unit-content .material .item .imagen.archivo:after, 
 #indice .unit-content .material .item .imagen.pdf:after {
-    background-image: url(images/icono_archivo_materialapoyo_reporterosusa.png);
+    background-image: url(images/icono_archivo_materialapoyo_lesblogueurs.png);
     background-color: #000000;
     border-radius: 50%;
 }
@@ -4934,14 +4934,6 @@ margin-bottom: 0px;
     margin-top: -7px;
 }
 
-/*.item-container .icon-parejas-blanco:before {
-	background-image: url(images/icono_enparejas_blanco_reporterosusa.png);
-	width: 18px;
-    height: 13px;
-    margin-right: 5px;
-    margin-top: -5px;
-}*/
-
 .item-container .icon-grupos-negro:before {
 	background-image: url(images/icono_engrupos_negro_lesblogueurs.png);
 	width: 26px;
@@ -4949,119 +4941,6 @@ margin-bottom: 0px;
     margin-right: 5px;
     margin-top: -7px;
 }
-
-/*.item-container .icon-grupos-blanco:before {
-	background-image: url(images/icono_engrupos_blanco_reporterosusa.png);
-    width: 16px;
-    height: 16px;
-    margin-right: 5px;
-    margin-top: -5px;
-}
-
-.item-container .icon-campana-azul:before {
-	background-image: url(images/icono_campana_azul_reporterosusa.png);
-    width: 26px;
-    height: 26px;
-    margin-right: 5px;
-}
-
-.item-container .icon-campana-morado:before {
-	background-image: url(images/icono_campana_morado_reporterosusa.png);
-	width: 26px;
-    height: 26px;
-    margin-right: 5px;
-}
-
-.item-container .icon-campana-teja:before {
-	background-image: url(images/icono_campana_teja_reporterosusa.png);
-	width: 26px;
-    height: 26px;
-    margin-right: 5px;
-}
-
-.item-container .icon-una-estrella:before {
-	background-image: url(images/icono_unaestrella_reporterosusa.png);
-    width: 15px;
-    height: 14px;
-    vertical-align: top;
-    margin-right: 5px;
-    margin-top: 1px;
-}
-
-.item-container .icon-una-estrella-morado:before {
-	background-image: url(images/icono_unaestrella_morado_reporterosusa.png);
-    width: 15px;
-    height: 14px;
-    vertical-align: top;
-    margin-right: 5px;
-    margin-top: 1px;
-}
-
-.item-container .icon-una-estrella-azul:before {
-	background-image: url(images/icono_unaestrella_azul_reporterosusa.png);
-    width: 15px;
-    height: 14px;
-    vertical-align: top;
-    margin-right: 5px;
-    margin-top: 1px;
-}
-
-
-.item-container .icon-dos-estrellas:before {
-	background-image: url(images/icono_dosestrellas_reporterosusa.png);
-    width: 31px;
-    height: 15px;
-    vertical-align: top;
-    margin-right: 5px;
-    margin-top: 1px;
-}
-
-.item-container .icon-dos-estrellas-morado:before {
-	background-image: url(images/icono_dosestrellas_morado_reporterosusa.png);
-    width: 31px;
-    height: 15px;
-    vertical-align: top;
-    margin-right: 5px;
-    margin-top: 1px;
-}
-
-.item-container .icon-dos-estrellas-azul:before {
-	background-image: url(images/icono_dosestrellas_azul_reporterosusa.png);
-    width: 31px;
-    height: 15px;
-    vertical-align: top;
-    margin-right: 5px;
-    margin-top: 1px;
-}
-
-
-.item-container .icon-tres-estrellas:before {
-	background-image: url(images/icono_tresestrellas_reporterosusa.png);
-    width: 49px;
-    height: 16px;
-    vertical-align: top;
-    margin-right: 5px;
-    margin-top: 1px;
-}
-
-.item-container .icon-tres-estrellas-morado:before {
-	background-image: url(images/icono_tresestrellas_morado_reporterosusa.png);
-    width: 49px;
-    height: 16px;
-    vertical-align: top;
-    margin-right: 5px;
-    margin-top: 1px;
-}
-
-.item-container .icon-tres-estrellas-azul:before {
-	background-image: url(images/icono_tresestrellas_azul_reporterosusa.png);
-    width: 49px;
-    height: 16px;
-    vertical-align: top;
-    margin-right: 5px;
-    margin-top: 1px;
-}*/
-
 
 .item-container .icon-video:before {
 	background-image: url(images/icono_video_lesblogueurs.png);
@@ -5077,38 +4956,6 @@ margin-bottom: 0px;
 	width: 19px;
     height: 18px;
 }
-
-/*.item-container .icon-like:before {
-	background-image: url(images/icono_like_reporterosusa.png);
-	width: 23px;
-    height: 23px;
-    margin-right: 5px;
-}
-
-.item-container .icon-dislike:before {
-	background-image: url(images/icono_dislike_reporterosusa.png);
-	width: 25px;
-    height: 23px;
-    margin-right: 5px;
-}
-
-
-.item-container .icon-cabeza-engranajes:before {
-	background-image: url(images/icono_cabezaengranajes_reporterosusa.png);
-width: 19px;
-    height: 23px;;
-    margin-right: 5px;
-    margin-top: -5px;
-}
-
-
-
-.item-container .icon-flechaazul:before {
-	font-family: 'FontAwesome';
-    content: "\f061";
-    color: #00A6BA;
-    margin-right: 5px;
-}*/
 
 .item-container .icon-rubric:before {
 	background-image: url(images/icono_rubric_reporterosusa.png);
