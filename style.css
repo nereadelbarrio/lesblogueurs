@@ -3323,14 +3323,12 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 background: transparent;
     border: 0;
     text-align: left;
-    font-size: 20px;
 }
 
 .bck-box-8>.bck-title {
     border: 0px;
     color: #000;
     text-align: left;
-    font-size: 2rem;
     background: #AFB2DA;
     padding: 10px 20px 0px 20px;
     font-weight: bold;
