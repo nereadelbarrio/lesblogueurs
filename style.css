@@ -1023,6 +1023,17 @@ font-size: 28px;
     padding-bottom: 16px;
 }
 
+/*TITULO 13*/
+
+.bck-title-13 {
+font-size: 3.7rem;
+    border-bottom: none;
+    color: #e7304a;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+
 /********REPORTERORS BORRAR AL FINAL*******/
 
 /*TITULO 13
