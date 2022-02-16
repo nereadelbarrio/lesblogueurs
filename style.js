@@ -25,6 +25,7 @@
 				{ name: 'Título 10', element: 'h3', attributes: { 'class': 'bck-title bck-title-10'} },
 				{ name: 'Título 11', element: 'h3', attributes: { 'class': 'bck-title bck-title-11'} },
 				{ name: 'Título 12', element: 'h3', attributes: { 'class': 'bck-title bck-title-12'} },
+				{ name: 'Título 13', element: 'h3', attributes: { 'class': 'bck-title bck-title-13'} },
 			
 				{ name: 'Énfasis 01', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis 02', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
@@ -92,7 +93,6 @@
 				{ name: 'Icono Grupos Negro', element: 'span', attributes: { 'class': 'icon icon-grupos-negro' } },
 				{ name: 'Icono Video', element: 'span', attributes: { 'class': 'icon icon-video' } },
 				{ name: 'Icono Flecha Azul', element: 'span', attributes: { 'class': 'icon icon-flechaazul' } },
-				{ name: 'Icono Materials', element: 'span', attributes: { 'class': 'icon icon-materials' } },
 				{ name: 'Icono Dados', element: 'span', attributes: { 'class': 'icon icon-dados' } },
 				{ name: 'Icono Colores', element: 'span', attributes: { 'class': 'icon icon-colores' } },
 				{ name: 'Icono Exclamación', element: 'span', attributes: { 'class': 'icon icon-exclamacion' } },
