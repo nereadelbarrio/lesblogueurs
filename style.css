@@ -3708,7 +3708,7 @@ padding: 1px 1px;
 
 /*CAJA 21*/
 .bck-box.bck-box-21 {
-    border: 3px dotted #F26D23;
+    border: 4px dotted #F26D23;
     border-radius: 15px;
     background: #fff;
     padding: 0px;
@@ -5502,6 +5502,10 @@ table td.bck-td-11 {
 	color: #716467;
 }
 
+.unittag_marron_lesblogueurs .bck-title-13 {
+	color: #716467;
+}
+
 .unittag_marron_lesblogueurs .bck-enfasis-2 {	
 	background-color: #716467;
 }
@@ -5577,6 +5581,10 @@ table td.bck-td-11 {
 }
 
 .unittag_naranja_lesblogueurs .bck-title-5 {
+	color: #F26D23;
+}
+
+.unittag_naranja_lesblogueurs .bck-title-13 {
 	color: #F26D23;
 }
 
@@ -5661,6 +5669,11 @@ table td.bck-td-11 {
 	color: #86A43E;
 }
 
+.unittag_oliva_lesblogueurs .bck-title-13 {
+	color: #86A43E;
+}
+
+
 .unittag_oliva_lesblogueurs .bck-enfasis-2 {	
 	background-color: #86A43E;
 }
@@ -5743,6 +5756,10 @@ table td.bck-td-11 {
 	color: #00AA4E;
 }
 
+.unittag_verde_lesblogueurs .bck-title-13 {
+	color: #00AA4E;
+}
+
 .unittag_verde_lesblogueurs .bck-enfasis-2 {	
 	background-color: #00AA4E;
 }
@@ -5822,6 +5839,10 @@ table td.bck-td-11 {
 }
 
 .unittag_morado_lesblogueurs .bck-title-5 {
+	color: #7553A2;
+}
+
+.unittag_morado_lesblogueurs .bck-title-13 {
 	color: #7553A2;
 }
 
@@ -5908,6 +5929,10 @@ table td.bck-td-11 {
 	color: #007DC4;
 }
 
+.unittag_azul_lesblogueurs .bck-title-13 {
+	color: #007DC4;
+}
+
 .unittag_azul_lesblogueurs .bck-enfasis-2 {	
 	background-color: #007DC4;
 }
@@ -5991,6 +6016,10 @@ table td.bck-td-11 {
 	color: #B4347C;
 }
 
+.unittag_rosa_lesblogueurs .bck-title-13 {
+	color: #B4347C;
+}
+
 .unittag_rosa_lesblogueurs .bck-enfasis-2 {	
 	background-color: #B4347C;
 }
@@ -6070,6 +6099,10 @@ table td.bck-td-11 {
 }
 
 .unittag_violeta_lesblogueurs .bck-title-5 {
+	color: #6D80BE;
+}
+
+.unittag_violeta_lesblogueurs .bck-title-13 {
 	color: #6D80BE;
 }
 
