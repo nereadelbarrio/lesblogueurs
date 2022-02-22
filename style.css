@@ -219,13 +219,13 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 }
 
 
-/*Color fondo pastillas
+/*Color fondo pastillas*/
 
 #indice .units ul li {
-    background: #757575;
+    background: #9b9a9a;
 }
 
-#list-units .unittag_textbook_lesblogueurs {
+/*#list-units .unittag_textbook_lesblogueurs {
 	background: #31a2c7 !important;
 }
 
@@ -519,7 +519,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
 #indice .units ul li:focus:not(.disabled), 
 #indice .units ul li.active:not(.disabled) {
-    background-color: #0085B2 !important;
+    background-color: #005f7e !important;
 }
 
 #book-index #indice .units ul li {
