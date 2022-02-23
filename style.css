@@ -222,7 +222,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 /*Color fondo pastillas*/
 
 #indice .units ul li {
-    background: #414141;
+    background: #757575;
 }
 
 /*#list-units .unittag_textbook_lesblogueurs {
@@ -6541,7 +6541,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
 
 .btn-primary, 
 .btn-primary.disabled {
-    background-color: #0085B2;
+    background-color: #000;
     color: #fff;
 }
 
