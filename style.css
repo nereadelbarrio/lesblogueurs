@@ -199,7 +199,7 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
 	color: #fff;
 }
 
-/*Hover y active  unidad_no_unidad
+/*Hover y active  unidad_no_unidad*/
 
 #list-units .unittag_no_unidad_lesblogueurs.active:not(.disabled), 
 #list-units .unittag_no_unidad_lesblogueurs:hover,
@@ -208,7 +208,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .units ul li:focus:not(.disabled),
 #indice .units ul li.active:not(.disabled) {
     background-color: #000!important;
-}*/
+}
 
 body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 	color: #fff;
@@ -222,7 +222,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a .title:hover {
 /*Color fondo pastillas*/
 
 #indice .units ul li {
-    background: #626262;
+    background: #414141;
 }
 
 /*#list-units .unittag_textbook_lesblogueurs {
@@ -519,7 +519,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
 #indice .units ul li:focus:not(.disabled), 
 #indice .units ul li.active:not(.disabled) {
-    background-color: #005f7e !important;
+    background-color: #000 !important;
 }
 
 #book-index #indice .units ul li {
