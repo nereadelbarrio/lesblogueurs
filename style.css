@@ -796,6 +796,7 @@ body.is_app .lesblogueurs-navbar.ocultar {
 
 #actividad .content img {
 	border-radius: 0px;
+	margin-top: 0px;
 }
 
 /*Icono audio*/
