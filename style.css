@@ -6641,7 +6641,7 @@ text-decoration: underline;
 }
 
 @media only screen and (max-width: 768px){
-.bck-box.bck-box8 {
+.bck-box.bck-box-16 {
     width: calc(100% + 120px);
     left: -60px;
 }
