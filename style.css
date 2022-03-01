@@ -799,6 +799,11 @@ body.is_app .lesblogueurs-navbar.ocultar {
 	margin-top: 0px;
 }
 
+#actividad .content img {
+    height: auto;
+    -webkit-user-drag: none;
+}
+
 /*Icono audio*/
 #actividad .player.audio {
 	background-image: url(images/icono_audio_lesblogueurs.png);
