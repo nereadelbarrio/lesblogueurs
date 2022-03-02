@@ -3581,21 +3581,13 @@ font-size: 4.3rem;
 
 /*CAJA 16*/
 .bck-box.bck-box-16 {
-/*margin-top: -2.6%;
-    background-color: transparent;
-    position: relative;
-    padding: 0px;
-    background-size: cover;
-    top: -22px;
-    left: -96.5px;
-    width: 127.9%;
-    margin-bottom: 0px;*/
     margin-top: -2.6%;
     position: relative;
     left: -97px;
     width: calc(100% + 194px);
     padding: 0;
     border: 0;
+	max-width: calc(100% + 194px);
 }
 
 .bck-box-16>.bck-content {
@@ -6669,6 +6661,13 @@ text-decoration: underline;
     left: inherit;
     margin-top: 10px;
 	}
+
+	.bck-box.bck-box-16 {
+	width: calc(100% + 40px);
+    left: -20px;
+    max-width: calc(100% + 40px);
+	}
+
 	}
 
 @media only screen and (max-width: 867px) and (min-width:375px) {
