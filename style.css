@@ -6651,6 +6651,10 @@ text-decoration: underline;
     left: -20px;
     max-width: calc(100% + 40px);
 }
+
+.bck-enfasis-4 {
+	left: 0px;
+}
 }
 
 /*------------------------------------------QUERIES-------------------------------------------*/
@@ -6662,11 +6666,7 @@ text-decoration: underline;
     margin-top: 10px;
 	}
 
-	.bck-box.bck-box-16 {
-	width: calc(100% + 40px);
-    left: -20px;
-    max-width: calc(100% + 40px);
-	}
+
 
 	}
 
