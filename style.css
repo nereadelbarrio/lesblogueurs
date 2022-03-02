@@ -789,15 +789,15 @@ body.is_app .lesblogueurs-navbar.ocultar {
 	background: transparent;
 }
 
-
-.bck-box img {
-    max-width: inherit;
-}
-
 /*imagenes
 .bck-box img {
-    max-width: 100%;
+    max-width: inherit;
 }*/
+
+
+.bck-box img {
+    max-width: 100%;
+}
 
 
 
