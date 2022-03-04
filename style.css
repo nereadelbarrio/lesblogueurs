@@ -3136,6 +3136,10 @@ body #actividad .content .workspace ul li ul.bck-ul-5 li:before {
 	padding: 10px;
 }
 
+.bck-box {
+	background: transparent;
+}
+
 /*CAJA 1*/
 .bck-box.bck-box-1:before,
 .bck-box.bck-box-1:after {
