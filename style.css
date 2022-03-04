@@ -1009,12 +1009,12 @@ font-size: 3.5rem;
 /*TITULO 11*/
 
 .bck-title-11 {
-	color: #fff;
+    color: #fff;
     background-color: #5C6CB0;
     width: fit-content;
     font-size: 4rem;
-    padding: 17px 75px 0px 159px;
-    margin-left: -158px;
+    padding: 17px 75px 0px 96px;
+    margin-left: -96px;
     text-transform: uppercase;
     margin-top: 0;
     font-weight: 600;
