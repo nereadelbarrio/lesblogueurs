@@ -3751,6 +3751,35 @@ width: fit-content;
 margin-bottom: 0px;
 }
 
+/*CAJA 22*/
+.bck-box.bck-box-22 {
+	border: 4px dotted #e7304a;
+    border-radius: 0 15px 15px 15px;
+    background: #fff;
+    padding: 0px;
+}
+
+.bck-box.bck-box-22>.bck-content {
+	padding: 15px;
+}
+
+.bck-box.bck-box-22>.bck-title {
+width: fit-content;
+    font-weight: 500;
+    text-align: left;
+    color: inherit;
+    padding: 16px 20px 2px 20px;
+    border: 0px;
+    border-radius: 10px 0 0 0;
+    font-size: 26px;
+    margin-top: -1px;
+    margin-left: -1px;
+}
+
+.bck-box.bck-box-22>.bck-title p {
+margin-bottom: 0px;
+}
+
 
 /********REPORTERORS BORRAR AL FINAL*******/
 
