@@ -719,7 +719,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 
 .slide_main input {
 	font-size: 2.2rem;
-	padding: 7px 6px 0px 13px;
+	padding: 0px 6px 0px 13px;
 }
 
 .slide_main input:focus,
@@ -6416,7 +6416,7 @@ body:not(.edit) .back .bck-flipbox-title, body:not(.edit) .back .bck-flipbox-sec
     height: 1.43em;
     margin: 0;
     position: relative;
-    bottom: 4px;
+    margin-bottom: 4px;
 }
 
 .slide_main input[disabled] {
