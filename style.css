@@ -4431,6 +4431,8 @@ margin-bottom: 0px;
 /*AJUSTES ACTIVIDADES*/
 .nota-budget {
 	z-index: 100;
+	margin-top: 10px;
+
 }
 
 .nota-budget span {
