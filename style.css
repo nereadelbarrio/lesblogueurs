@@ -4806,6 +4806,11 @@ margin-bottom: 0px;
    padding-bottom: 15px;
 }
 
+/*marcar palabras*/
+#actividad .markword-correct {
+	color: #2f4913 !important;
+}
+
 /*tipo test*/
 
 #actividad .content .workspace.test ul li .bck-ol-5 li:before,
