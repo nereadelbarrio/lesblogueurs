@@ -4729,7 +4729,35 @@ margin-bottom: 0px;
 }
 
 /*clasificar*/
+/*
+#actividad .workspace.clasificar .clasificar_conjuntos .group-name-top {
+	text-align: center;
+    font-weight: bold;
+    border-bottom: 1px solid #ee3a54;
+    display: table;
+    width: 100%;
+    margin: 0px;
+    margin-top: -1px;
+    background-color: #ee3a54;
+    color: #fff;
+}
 
+#actividad .workspace.clasificar .clasificar_conjuntos .clasify-group {
+    width: 100%;
+    height: 100%;
+    min-height: 220px;
+    word-wrap: break-word;
+    background-color: #FCD7D0;
+}
+
+#actividad .workspace.clasificar .clasificar_conjuntos .classify-item {
+	text-align: center;
+    margin-bottom: 5px;
+    border-bottom: 2px solid #ee3a54;
+    cursor: pointer;
+    background-color: #fff8f6;
+}
+*/
 
 #actividad .workspace.clasificar .clasificar_conjuntos span.solucion {
     border-bottom: 1px solid #3476ab;
@@ -4768,6 +4796,34 @@ margin-bottom: 0px;
 
 #actividad .workspace.clasificar .clasificar_conjuntos span.solucion img {
 	padding-bottom: 10px;
+}
+
+#actividad .workspace.clasificar .clasificar_conjuntos .group-name-top {
+	text-align: center;
+    font-weight: bold;
+    border-bottom: 1px solid #ee3a54;
+    display: table;
+    width: 100%;
+    margin: 0px;
+    margin-top: -1px;
+    background-color: #ee3a54;
+    color: #fff;
+}
+
+#actividad .workspace.clasificar .clasificar_conjuntos .clasify-group {
+    width: 100%;
+    height: 100%;
+    min-height: 220px;
+    word-wrap: break-word;
+    background-color: #FCD7D0;
+}
+
+#actividad .workspace.clasificar .clasificar_conjuntos .classify-item {
+	text-align: center;
+    margin-bottom: 5px;
+    border-bottom: 2px solid #ee3a54;
+    cursor: pointer;
+    background-color: #fff8f6;
 }
 
 /*Arrastrar texto a imagen*/
