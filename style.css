@@ -4429,7 +4429,9 @@ margin-bottom: 0px;
 
 
 /*AJUSTES ACTIVIDADES*/
-
+.nota-budget {
+	z-index: 100;
+}
 
 .nota-budget span {
     vertical-align: middle;
