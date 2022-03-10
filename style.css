@@ -4791,7 +4791,8 @@ margin-bottom: 0px;
 }
 
 #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
-	border: 3px solid #d8d8d8;
+	border: 1px solid #ee3a54;
+	border-radius: 1px;
 }
 
 #actividad .workspace.clasificar .clasificar_conjuntos span.solucion img {
