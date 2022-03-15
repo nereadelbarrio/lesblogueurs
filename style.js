@@ -101,6 +101,7 @@
 				{ name: 'Icono Exclamación azul', element: 'span', attributes: { 'class': 'icon icon-exclamacionazulinversa' } },
 				{ name: 'Icono Exclamación naranja', element: 'span', attributes: { 'class': 'icon icon-exclamacionnaranja' } },
 				{ name: 'Icono Exclamación gris', element: 'span', attributes: { 'class': 'icon icon-exclamaciongris' } },
+				{ name: 'Icono Exclamación marrón', element: 'span', attributes: { 'class': 'icon icon-exclamacionmarron' } },
 				{ name: 'Icono Flecha Naranja', element: 'span', attributes: { 'class': 'icon icon-flechanaranja' } },	
 				{ name: 'Icono Persona sola', element: 'span', attributes: { 'class': 'icon icon-personasola-negro' } },
 				{ name: 'Icono CI', element: 'span', attributes: { 'class': 'icon icon-ci' } },
