@@ -5127,6 +5127,14 @@ margin-bottom: 0px;
     margin-top: -5px;
 }
 
+.item-container .icon-exclamacionmoradainversa:before {
+	background-image: url(images/icono_exclamacion_moradainversa_lesblogueurs.PNG);
+	width: 55px;
+    height: 57px;
+    margin-right: 5px;
+    margin-top: -5px;
+}
+
 .item-container .icon-exclamacionazulinversa:before {
 	background-image: url(images/icono_exclamacion_azulinversa_lesblogueurs.png);
 	width: 24px;
