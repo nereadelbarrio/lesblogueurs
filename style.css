@@ -5788,6 +5788,12 @@ table td.bck-td-11 {
     background-color: #fbc4a5;
 }
 
+.unittag_naranja_lesblogueurs #actividad .workspace.clasificar .clasificar_lista .classify-item {
+border: 3px solid #f26d23;
+color: #fff;
+background: #f26d23;
+}
+
 .unittag_naranja_lesblogueurs #actividad .workspace.clasificar .clasificar_conjuntos .classify-item {
 	text-align: center;
     margin-bottom: 5px;
@@ -5898,6 +5904,12 @@ table td.bck-td-11 {
     margin-top: -1px;
     background-color: #86A43E;
     color: #fff;
+}
+
+.unittag_oliva_lesblogueurs #actividad .workspace.clasificar .clasificar_lista .classify-item {
+border: 3px solid #86A43E;
+color: #fff;
+background: #86A43E;
 }
 
 .unittag_oliva_lesblogueurs #actividad .workspace.clasificar .clasificar_conjuntos .clasify-group {
@@ -6017,6 +6029,12 @@ table td.bck-td-11 {
     margin-top: -1px;
     background-color: #00AA4E;
     color: #fff;
+}
+
+.unittag_verde_lesblogueurs #actividad .workspace.clasificar .clasificar_lista .classify-item {
+border: 3px solid #00AA4E;
+color: #fff;
+background: #00AA4E;
 }
 
 .unittag_verde_lesblogueurs #actividad .workspace.clasificar .clasificar_conjuntos .clasify-group {
@@ -6139,6 +6157,12 @@ table td.bck-td-11 {
     color: #fff;
 }
 
+.unittag_morado_lesblogueurs #actividad .workspace.clasificar .clasificar_lista .classify-item {
+border: 3px solid #7553A2;
+color: #fff;
+background: #7553A2;
+}
+
 .unittag_morado_lesblogueurs #actividad .workspace.clasificar .clasificar_conjuntos .clasify-group {
     width: 100%;
     height: 100%;
@@ -6256,6 +6280,12 @@ table td.bck-td-11 {
     margin-top: -1px;
     background-color: #007DC4;
     color: #fff;
+}
+
+.unittag_azul_lesblogueurs #actividad .workspace.clasificar .clasificar_lista .classify-item {
+border: 3px solid #007DC4;
+color: #fff;
+background: #007DC4;
 }
 
 .unittag_azul_lesblogueurs #actividad .workspace.clasificar .clasificar_conjuntos .clasify-group {
@@ -6395,6 +6425,13 @@ table td.bck-td-11 {
     background-color: #ddcaf6;
 }
 
+.unittag_rosa_lesblogueurs #actividad .workspace.clasificar .clasificar_lista .classify-item {
+border: 3px solid #ddcaf6;
+color: #fff;
+background: #ddcaf6;
+}
+
+
 .unittag_rosa_lesblogueurs #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
 	border: 1px solid #B4347C;
 	border-radius: 1px;
@@ -6513,6 +6550,13 @@ table td.bck-td-11 {
     cursor: pointer;
     background-color: #ddcaf6;
 }
+
+.unittag_violeta_lesblogueurs #actividad .workspace.clasificar .clasificar_lista .classify-item {
+border: 3px solid #ddcaf6;
+color: #fff;
+background: #ddcaf6;
+}
+
 
 .unittag_rosa_lesblogueurs #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
 	border: 1px solid #6D80BE;
