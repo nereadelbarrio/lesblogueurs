@@ -98,6 +98,7 @@
 				{ name: 'Icono Colores', element: 'span', attributes: { 'class': 'icon icon-colores' } },
 				{ name: 'Icono Exclamación', element: 'span', attributes: { 'class': 'icon icon-exclamacion' } },
 				{ name: 'Icono Exclamación morada', element: 'span', attributes: { 'class': 'icon icon-exclamacionmorada' } },
+				{ name: 'Icono Exclamación morada inversa', element: 'span', attributes: { 'class': 'icon icon-exclamacionmoradainversa' } },
 				{ name: 'Icono Exclamación azul', element: 'span', attributes: { 'class': 'icon icon-exclamacionazulinversa' } },
 				{ name: 'Icono Exclamación naranja', element: 'span', attributes: { 'class': 'icon icon-exclamacionnaranja' } },
 				{ name: 'Icono Exclamación gris', element: 'span', attributes: { 'class': 'icon icon-exclamaciongris' } },
