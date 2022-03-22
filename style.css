@@ -1402,7 +1402,6 @@ hr {
 }
 
 /*Globo corrección*/
-
 #indice .unit-content .actividades .item .nota.ko {
     padding-top: 8px;
 }
@@ -3191,7 +3190,6 @@ background: transparent;
     border: 0px;
     color: #fff;
     text-align: left;
-    font-size: 1.8rem;
     background: #9D9C88;
     padding: 15px 20px 5px 20px;
     font-weight: bold;
@@ -3216,7 +3214,6 @@ background: transparent;
 
 .bck-box.bck-box-9>.bck-content {
 	padding: 15px;
-    font-size: 1.7rem;
     background: #ffffff;
     border: 2px solid #9d9c88;
 }
