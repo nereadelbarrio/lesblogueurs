@@ -1384,6 +1384,11 @@ background-color: #B3DDF0;
     font-family: 'Conv_Calibre';
 }
 
+/*ENFASIS 15*/
+.bck-enfasis-15 { 
+	    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
 
 
 
