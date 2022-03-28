@@ -411,7 +411,7 @@ button.btn.btn-primary.disabled {
 .content_type_curso_lesblogueurs .libro-left ul li .title:before {
 	content: "";
 	background-size: contain;
-	top: 3px;
+	top: 10px;
 	background-image: url(images/logofrenchhub_lesblogueurs.png) !important;
 	position: fixed;
 	width: 80px;
