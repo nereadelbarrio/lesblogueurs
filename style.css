@@ -5392,15 +5392,16 @@ table td.bck-td-11 {
 	background-color: #6D80BE !important;
 }
 
+/*no_unidad*/
+#list-units .unittag_no_unidad_lesblogueurs {
+	background-color: #000 !important;
+}
+
 /*unidad_cero
 #list-units .unittag_unidad_cero_reporterosusa {
 	background-color: #616161 !important;
 }
 
-/*no_unidad
-#list-units .unittag_no_unidad_lesblogueurs {
-	background-color: #757575 !important;
-}
 
 #list-units .unittag_punteado_lesblogueurs {
     background: transparent !important;
