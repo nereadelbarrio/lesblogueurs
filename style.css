@@ -408,7 +408,7 @@ button.btn.btn-primary.disabled {
     padding-top: 4px;
 }
 
-.content_type_curso_lesblogueurs   .libro-left ul li .title:before {
+.content_type_curso_lesblogueurs .libro-left ul li .title:before {
 	content: "";
 	background-size: contain;
 	top: 3px;
@@ -422,14 +422,14 @@ button.btn.btn-primary.disabled {
 	opacity: 1;
 }
 
-.content_type_curso_lesblogueurs.content_type_clase_lesblogueurs   .libro-left ul li .title:before { 
+.content_type_curso_lesblogueurs.content_type_clase_lesblogueurs .libro-left ul li .title:before { 
 	opacity: 0;
 }
 .navbar-content .logo-publisher {
 	display: inline-block;
 	position: absolute;
-	top: 0;
-	left: 0;
+	top: -3px;
+    left: 10px;
 	width: 100px;
 	height: 44px;
 	background: url(images/logofrenchhub_lesblogueurs.png) 0 0 no-repeat;
