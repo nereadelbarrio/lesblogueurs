@@ -412,7 +412,7 @@ button.btn.btn-primary.disabled {
 	content: "";
 	background-size: contain;
 	top: 3px;
-	background-image: url(images/thespanishhub_logo_reporterosusa.png) !important;
+	background-image: url(images/logofrenchhub_lesblogueurs.png) !important;
 	position: fixed;
 	width: 80px;
 	height: 40px;
@@ -432,7 +432,7 @@ button.btn.btn-primary.disabled {
 	left: 0;
 	width: 100px;
 	height: 44px;
-	background: url(images/thespanishhub_logo_reporterosusa.png) 0 0 no-repeat;
+	background: url(images/logofrenchhub_lesblogueurs.png) 0 0 no-repeat;
 	-webkit-background-size: contain;
 	   -moz-background-size: contain;
 		 -o-background-size: contain;
