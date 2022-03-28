@@ -5148,27 +5148,15 @@ table.bck-table-11 td.bck-td-11 {
 }
 
 /*TABLA 12*/
-table.bck-table-12 {
-	border: 2px solid transparent;
-}
-
-table.bck-table-12 td {
-	border-color: transparent;
-    padding: 5px 5px 5px 0px;
-    font-size: 22px;
-    background-color: transparent;
-}
-
-/*TABLA 13*/ 
-table.bck-table-13 {
+table.bck-12 {
 	border: 2px solid #009B84;
 }
 
-table.bck-table-13 td {
+table.bck-table-12 td {
     border-color: #009B84;
 }
 
-table.bck-table-13 td.bck-td-10 {
+table.bck-table-12 td.bck-td-10 {
     border-color: #fff;
 }
 
