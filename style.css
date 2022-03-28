@@ -5475,6 +5475,10 @@ table td.bck-td-11 {
    background-color: #716467;
 }
 
+.unittag_marron_lesblogueurs .bck-title-13 {
+	color: #716467;
+}
+
 .unittag_marron_lesblogueurs .bck-box-18>.bck-title {
 	background-color: #716467;
 }
@@ -5484,7 +5488,7 @@ table td.bck-td-11 {
 }
 
 .unittag_marron_lesblogueurs .bck-box.bck-box-15 {
-	background: #716467;
+	background: : #716467;
 }
 
 
@@ -6107,7 +6111,7 @@ background: #007DC4;
     margin-bottom: 5px;
     border-bottom: 2px solid #007DC4;
     cursor: pointer;
-    background-color: #ddcaf6;
+    background-color: #007dc478;
 }
 
 .unittag_azul_lesblogueurs #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
@@ -6228,13 +6232,13 @@ background: #007DC4;
     margin-bottom: 5px;
     border-bottom: 2px solid #B4347C;
     cursor: pointer;
-    background-color: #ddcaf6;
+    background-color: #b4347c70;
 }
 
 .unittag_rosa_lesblogueurs #actividad .workspace.clasificar .clasificar_lista .classify-item {
-border: 3px solid #ddcaf6;
+border: 3px solid #b4347c;
 color: #fff;
-background: #ddcaf6;
+background: #b4347c;
 }
 
 
