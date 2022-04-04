@@ -1164,6 +1164,13 @@ background-color: #B3DDF0;
     transform: rotate(180deg);
 }
 
+/*ENFASIS 16*/
+.bck-enfasis-16 { 
+	border-bottom: 1px solid #3476ab;
+    background-color: #dee4ee;
+    padding-top: 3px;
+}
+
 
 
 /**********************HR*****************************/
