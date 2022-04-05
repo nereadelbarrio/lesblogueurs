@@ -109,6 +109,9 @@
 				{ name: 'Icono Flecha Naranja', element: 'span', attributes: { 'class': 'icon icon-flechanaranja' } },	
 				{ name: 'Icono Persona sola', element: 'span', attributes: { 'class': 'icon icon-personasola-negro' } },
 				{ name: 'Icono CI', element: 'span', attributes: { 'class': 'icon icon-ci' } },
+				{ name: 'Icono lapiz DELF', element: 'span', attributes: { 'class': 'icon icon-lapizdelf' } },
+				{ name: 'Icono libro DELF', element: 'span', attributes: { 'class': 'icon icon-librodelf' } },
+				{ name: 'Icono audio DELF', element: 'span', attributes: { 'class': 'icon icon-audiodelf' } },
 				
 				
 				{ name: 'Tabla 01', element: 'table', attributes: { 'class': 'bck-table-1' } },
