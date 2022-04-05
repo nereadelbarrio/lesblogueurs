@@ -1028,6 +1028,16 @@ font-size: 3.7rem;
     margin-bottom: 25px;
 }
 
+/*TITULO 14*/
+
+.bck-title-14 {
+    font-size: 4.3rem;
+    border-bottom: 4px solid #009B84;
+    color: #009B84;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
 
 /*------------------------------------ENFASIS------------------------------------------------*/
 
