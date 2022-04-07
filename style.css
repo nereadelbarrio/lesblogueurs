@@ -1038,6 +1038,15 @@ font-size: 3.7rem;
     margin-bottom: 40px;
 }
 
+/*TITULO 15*/
+
+.bck-title-15 {
+font-size: 3.7rem;
+    border-bottom: none;
+    color: #009B84;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
 
 /*------------------------------------ENFASIS------------------------------------------------*/
 
