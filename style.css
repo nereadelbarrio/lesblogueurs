@@ -1041,6 +1041,16 @@ font-size: 3.7rem;
 /*TITULO 15*/
 
 .bck-title-15 {
+font-size: 4rem;
+    border-bottom: none;
+    color: #009B84;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+/*TITULO 16*/
+
+.bck-title-16 {
 font-size: 3.7rem;
     border-bottom: none;
     color: #009B84;
@@ -3717,6 +3727,13 @@ width: 49px;
     margin-top: -5px;
 }
 
+.item-container .icon-hablardelf:before {
+	background-image: url(images/icono_hablar_DELF.png);
+width: 49px;
+    height: 50px;
+    margin-right: 0px;
+    margin-top: -5px;
+}
 
 
 /**TABLA**/
